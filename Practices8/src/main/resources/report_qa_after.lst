@@ -1,0 +1,1842 @@
+EHD/100092D-DCFI,15-SEP-15,01-JUN-15,Finnish,,07-APR-15,05-SEP-15               
+EHD/100094D-DSWE,17-SEP-15,03-JUN-15,Finnish,,07-APR-15,07-SEP-15               
+EHD/100095D-DSWE,18-SEP-15,04-JUN-15,Finnish,,07-APR-15,08-SEP-15               
+EHD/100097B-TLPR,16-AUG-15,16-AUG-15,Estonian,QC Passed,23-JUN-15,06-AUG-15     
+EHD/100097B-TLPR,16-AUG-15,16-AUG-15,Greek,With Vendor,23-JUN-15,21-JUL-15      
+EHD/100097B-TLPR,16-AUG-15,16-AUG-15,Hungarian,QC Passed,23-JUN-15,06-AUG-15    
+EHD/100097B-TLPR,16-AUG-15,16-AUG-15,Portuguese,QC Passed,23-JUN-15,06-AUG-15   
+EHD/100097B-TLPR,16-AUG-15,16-AUG-15,Slovak,QC Passed,23-JUN-15,06-AUG-15       
+EHD/100101D-TLPR,,,Estonian,With Vendor,04-AUG-15,01-SEP-15                     
+EHD/100101D-TLPR,,,Greek,With Vendor,04-AUG-15,01-SEP-15                        
+EHD/100101D-TLPR,,,Hungarian,With Vendor,04-AUG-15,01-SEP-15                    
+EHD/100101D-TLPR,,,Portuguese,With Vendor,04-AUG-15,01-SEP-15                   
+EHD/100101D-TLPR,,,Russian,With Vendor,04-AUG-15,01-SEP-15                      
+EHD/100101D-TLPR,,,Slovak,With Vendor,04-AUG-15,01-SEP-15                       
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Estonian,With Vendor,23-JUN-15,21-JUL-15   
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Greek,With Vendor,23-JUN-15,21-JUL-15      
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Hungarian,With Vendor,23-JUN-15,21-JUL-15  
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Portuguese,With Vendor,23-JUN-15,21-JUL-15 
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Russian,With Vendor,23-JUN-15,21-JUL-15    
+EHD/100102B-TLPR,30-AUG-15,30-AUG-15,Slovak,With Vendor,23-JUN-15,21-JUL-15     
+EHD/100188B-DBEN,14-NOV-15,13-JUN-15,Dutch,,31-MAR-15,04-NOV-15                 
+EHD/100188B-DBEN,14-NOV-15,13-JUN-15,Norwegian,,07-APR-15,04-NOV-15             
+EHD/100393B-DSWE,14-AUG-15,10-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/100393B-DSWE,14-AUG-15,10-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/100398B-DSWE,24-AUG-15,24-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/100398B-DSWE,24-AUG-15,24-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/100720B-DNOR,20-SEP-15,05-AUG-15,Norwegian,,31-MAR-15,10-SEP-15             
+EHD/100721B-DNOR,27-SEP-15,06-AUG-15,Norwegian,,31-MAR-15,17-SEP-15             
+EHD/100722B-DNOR,04-OCT-15,07-AUG-15,Norwegian,,31-MAR-15,24-SEP-15             
+EHD/100723B-DNOR,11-OCT-15,10-AUG-15,Norwegian,,31-MAR-15,01-OCT-15             
+EHD/100724B-DNOR,12-AUG-15,12-AUG-15,Norwegian,,31-MAR-15,02-AUG-15             
+EHD/100735B-DIBE,18-AUG-15,01-JUN-15,Portuguese,QC Passed,08-MAY-15,08-AUG-15   
+EHD/100735B-DIBE,18-AUG-15,01-JUN-15,Spanish,Received,22-MAY-15,08-AUG-15       
+EHD/100738B-DIBE,25-AUG-15,15-JUN-15,Portuguese,QC Passed,08-MAY-15,15-AUG-15   
+EHD/100738B-DIBE,25-AUG-15,15-JUN-15,Spanish,Received,02-JUN-15,15-AUG-15       
+EHD/100740B-DIBE,01-SEP-15,22-JUN-15,Portuguese,QC Passed,08-MAY-15,12-JUN-15   
+EHD/100740B-DIBE,01-SEP-15,22-JUN-15,Spanish,,15-APR-15,22-AUG-15               
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/101101D-TLBA,08-SEP-15,08-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101105G-SCFR,12-SEP-15,12-SEP-15,French,With Vendor,30-JUN-15,28-JUL-15     
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/101106D-TLBA,15-SEP-15,15-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/101107D-TLBA,16-SEP-15,16-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/101223C-DNOR,20-AUG-15,14-JUN-15,Norwegian,,31-MAR-15,10-AUG-15             
+EHD/101224C-DNOR,21-AUG-15,21-JUN-15,Norwegian,,31-MAR-15,11-AUG-15             
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Arabic,With Vendor,23-JUN-15,21-JUL-15     
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Danish,QC Passed,23-JUN-15,10-AUG-15       
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Dutch,QC Passed,23-JUN-15,10-AUG-15        
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Greek,QC Passed,23-JUN-15,10-AUG-15        
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Hungarian,Received,23-JUN-15,10-AUG-15     
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Norwegian,QC Passed,23-JUN-15,10-AUG-15    
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Romanian,QC Passed,23-JUN-15,10-AUG-15     
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Russian,Received,23-JUN-15,10-AUG-15       
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Serbian,QC Passed,23-JUN-15,10-AUG-15      
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Slovak,Received,23-JUN-15,10-AUG-15        
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Swedish,QC Passed,23-JUN-15,10-AUG-15      
+EHD/101247C-SCEU,20-AUG-15,20-AUG-15,Turkish,With Vendor,23-JUN-15,21-JUL-15    
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Arabic,With Vendor,23-JUN-15,21-JUL-15     
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Danish,QC Passed,23-JUN-15,16-AUG-15       
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Dutch,QC Passed,23-JUN-15,16-AUG-15        
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Greek,QC Passed,23-JUN-15,16-AUG-15        
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Hungarian,Received,23-JUN-15,16-AUG-15     
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Norwegian,QC Passed,23-JUN-15,16-AUG-15    
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Romanian,QC Passed,23-JUN-15,16-AUG-15     
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Russian,Received,23-JUN-15,16-AUG-15       
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Serbian,QC Passed,23-JUN-15,16-AUG-15      
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Slovak,Received,23-JUN-15,16-AUG-15        
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Swedish,QC Passed,23-JUN-15,16-AUG-15      
+EHD/101248C-SCEU,26-AUG-15,26-AUG-15,Turkish,With Vendor,23-JUN-15,21-JUL-15    
+EHD/104102E-DHUN,17-SEP-15,01-JUN-15,Hungarian,,08-APR-15,07-SEP-15             
+EHD/105230G-TLRU,18-SEP-15,04-JUN-15,Russian,,24-APR-15,08-SEP-15               
+EHD/105563G-DFRA,04-SEP-15,08-JAN-15,French AD,With Vendor,22-JUL-15,19-AUG-15  
+EHD/105563G-DFRA,04-SEP-15,08-JAN-15,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/105567H-DFRA,10-SEP-15,05-FEB-15,French AD,With Vendor,22-JUL-15,19-AUG-15  
+EHD/105567H-DFRA,10-SEP-15,05-FEB-15,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/105667C-DBEN,17-AUG-15,07-JUN-15,Dutch,,31-MAR-15,07-AUG-15                 
+EHD/105668C-DBEN,19-AUG-15,14-JUN-15,Dutch,,31-MAR-15,09-AUG-15                 
+EHD/105669E-DBEN,20-AUG-15,21-JUN-15,Dutch,,22-APR-15,10-AUG-15                 
+EHD/105674C-DBEN,22-AUG-15,26-JUL-15,Dutch,,26-MAY-15,12-AUG-15                 
+EHD/105674C-DHUN,24-AUG-15,24-AUG-15,Czech,QC Passed,09-JUL-15,14-AUG-15        
+EHD/105674C-DHUN,24-AUG-15,24-AUG-15,Hungarian,Received,09-JUL-15,14-AUG-15     
+EHD/105712C-DBEN,17-OCT-15,03-AUG-15,Dutch,With Vendor,08-JUL-15,05-AUG-15      
+EHD/105721C-DROM,,,Romanian,With Vendor,21-JUL-15,18-AUG-15                     
+EHD/105765C-DDEN,,27-JUN-15,Danish,,31-MAR-15,                                  
+EHD/105768C-DDEN,,13-JUN-15,Danish,,31-MAR-15,                                  
+EHD/105772D-DDEN,,20-JUN-15,Danish,,31-MAR-15,                                  
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Croatian,QC Passed,08-JUL-15,05-AUG-15     
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Estonian,With Vendor,10-JUL-15,05-AUG-15   
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Greek,QC Passed,08-JUL-15,05-AUG-15        
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Latvian,With Vendor,10-JUL-15,05-AUG-15    
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Macedonian,QC Passed,08-JUL-15,05-AUG-15   
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Serbian,QC Passed,08-JUL-15,05-AUG-15      
+EHD/119747I-DCEN,15-AUG-15,15-AUG-15,Slovenian,QC Passed,08-JUL-15,05-AUG-15    
+EHD/120194D-APLU,25-AUG-15,25-AUG-15,English HoH,With Vendor,29-JUL-15,15-AUG-15
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Croatian,QC Passed,08-JUL-15,02-AUG-15     
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Estonian,With Vendor,10-JUL-15,02-AUG-15   
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Greek,QC Passed,08-JUL-15,02-AUG-15        
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Latvian,QC Passed,10-JUL-15,02-AUG-15      
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Macedonian,QC Passed,08-JUL-15,02-AUG-15   
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Serbian,QC Passed,08-JUL-15,02-AUG-15      
+EHD/120194D-DCEN,12-AUG-15,12-AUG-15,Slovenian,QC Passed,08-JUL-15,02-AUG-15    
+EHD/120194K-DFRA,16-SEP-15,16-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/120195D-APLU,01-SEP-15,01-SEP-15,English HoH,With Vendor,29-JUL-15,22-AUG-15
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Croatian,QC Passed,08-JUL-15,16-AUG-15     
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Greek,QC Passed,08-JUL-15,16-AUG-15        
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15    
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Macedonian,QC Passed,08-JUL-15,16-AUG-15   
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Serbian,With Vendor,08-JUL-15,05-AUG-15    
+EHD/120196D-DCEN,26-AUG-15,26-AUG-15,Slovenian,With Vendor,08-JUL-15,05-AUG-15  
+EHD/120309D-APPL,05-SEP-15,05-SEP-15,Polish,,24-JUL-15,26-AUG-15                
+EHD/120311C-APPL,19-SEP-15,19-SEP-15,Polish,,24-JUL-15,09-SEP-15                
+EHD/120497B-CIPO,08-SEP-15,26-JUL-15,Polish,,03-JUL-15,29-AUG-15                
+EHD/120498B-CIPO,09-SEP-15,26-JUL-15,Polish,,03-JUL-15,30-AUG-15                
+EHD/120519B-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/120519B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/120519B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/120519B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/120519B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/120560G-SCFR,09-SEP-15,09-SEP-15,French,With Vendor,30-JUN-15,28-JUL-15     
+EHD/120564B-TLPR,13-SEP-15,13-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/120564B-TLPR,13-SEP-15,13-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/120564B-TLPR,13-SEP-15,13-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/120564B-TLPR,13-SEP-15,13-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/120564B-TLPR,13-SEP-15,13-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/120842B-DCEN,,,Albanian,,27-APR-15,                                         
+EHD/120842B-DCEN,,,Croatian,,27-APR-15,                                         
+EHD/120842B-DCEN,,,Czech,,27-APR-15,                                            
+EHD/120842B-DCEN,,,Estonian,,28-APR-15,                                         
+EHD/120842B-DCEN,,,Greek,,27-APR-15,                                            
+EHD/120842B-DCEN,,,Macedonian,,27-APR-15,                                       
+EHD/120842B-DCEN,,,Russian,,27-APR-15,                                          
+EHD/120842B-DCEN,,,Serbian,,27-APR-15,                                          
+EHD/120842B-DCEN,,,Slovenian,,27-APR-15,                                        
+EHD/120972B-HDEU,16-AUG-15,16-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/120972B-HDEU,16-AUG-15,16-AUG-15,Turkish,QC Passed,06-JUL-15,06-AUG-15      
+EHD/120974B-HDEU,16-AUG-15,16-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/120974B-HDEU,16-AUG-15,16-AUG-15,Turkish,QC Passed,06-JUL-15,06-AUG-15      
+EHD/120976B-HDEU,23-AUG-15,23-AUG-15,Norwegian,With Vendor,06-AUG-15,13-AUG-15  
+EHD/120976B-HDEU,23-AUG-15,23-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/120976B-HDEU,23-AUG-15,23-AUG-15,Turkish,Received,06-JUL-15,13-AUG-15       
+EHD/120979B-HDEU,30-AUG-15,30-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/120979B-HDEU,30-AUG-15,30-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/120979B-HDEU,30-AUG-15,30-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/120982B-HDEU,30-AUG-15,30-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/120982B-HDEU,30-AUG-15,30-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/120982B-HDEU,30-AUG-15,30-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/120982B-HDEU,30-AUG-15,30-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/121148F-DFRA,01-SEP-15,01-SEP-15,French,With Vendor,27-JUL-15,22-AUG-15     
+EHD/121620D-DSWE,17-AUG-15,17-AUG-15,Finnish,With Vendor,08-JUL-15,05-AUG-15    
+EHD/121620D-DSWE,17-AUG-15,17-AUG-15,Swedish,With Vendor,08-JUL-15,05-AUG-15    
+EHD/121686C-RTIT,,04-AUG-15,Italian,With Vendor,03-JUL-15,31-JUL-15             
+EHD/121739B-DNOR,,04-JUN-15,Norwegian,,31-MAR-15,                               
+EHD/121740B-DNOR,,11-JUN-15,Norwegian,,31-MAR-15,                               
+EHD/121741B-DNOR,,18-JUN-15,Norwegian,,31-MAR-15,                               
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Croatian,QC Passed,08-JUL-15,09-AUG-15     
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Czech,QC Passed,08-JUL-15,09-AUG-15        
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Estonian,QC Passed,10-JUL-15,09-AUG-15     
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Greek,QC Passed,08-JUL-15,09-AUG-15        
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15    
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Macedonian,QC Passed,08-JUL-15,09-AUG-15   
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Russian,QC Passed,08-JUL-15,09-AUG-15      
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Serbian,QC Passed,08-JUL-15,09-AUG-15      
+EHD/121749C-DCEN,19-AUG-15,19-AUG-15,Slovenian,QC Passed,08-JUL-15,09-AUG-15    
+EHD/121752C-DIBE,26-AUG-15,26-AUG-15,Portuguese,With Vendor,18-JUN-15,16-JUL-15 
+EHD/121980B-DMEA,30-AUG-15,30-AUG-15,Arabic,With Vendor,07-JUL-15,04-AUG-15     
+EHD/121980B-DMEA,30-AUG-15,30-AUG-15,Hebrew,With Vendor,07-JUL-15,04-AUG-15     
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Croatian,QC Passed,08-JUL-15,19-AUG-15     
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Greek,QC Passed,08-JUL-15,19-AUG-15        
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15    
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Macedonian,QC Passed,08-JUL-15,19-AUG-15   
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Serbian,With Vendor,08-JUL-15,05-AUG-15    
+EHD/121981B-DCEN,29-AUG-15,29-AUG-15,Slovenian,With Vendor,08-JUL-15,05-AUG-15  
+EHD/121985E-DPOL,19-AUG-15,19-AUG-15,Polish,With Vendor,06-AUG-15,09-AUG-15     
+EHD/122282D-DIBE,24-OCT-15,04-AUG-15,Portuguese,QC Passed,18-JUN-15,14-OCT-15   
+EHD/122282D-DIBE,24-OCT-15,04-AUG-15,Spanish,With Vendor,24-JUL-15,21-AUG-15    
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Arabic,QC Passed,18-MAY-15,02-JUN-15       
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Czech,QC Passed,18-MAY-15,02-JUN-15        
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Danish,QC Passed,18-MAY-15,02-JUN-15       
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Dutch,QC Passed,18-MAY-15,02-JUN-15        
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Hungarian,QC Passed,18-MAY-15,02-JUN-15    
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Norwegian,QC Passed,18-MAY-15,02-JUN-15    
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Romanian,QC Passed,18-MAY-15,02-JUN-15     
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Russian,QC Passed,18-MAY-15,02-JUN-15      
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Swedish,QC Passed,18-MAY-15,02-JUN-15      
+EHD/122406B-CVEU,13-NOV-15,12-JUN-15,Turkish,,18-MAY-15,03-NOV-15               
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Arabic,QC Passed,18-MAY-15,06-JUN-15       
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Czech,QC Passed,18-MAY-15,06-JUN-15        
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Danish,QC Passed,18-MAY-15,06-JUN-15       
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Dutch,QC Passed,18-MAY-15,06-JUN-15        
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Hungarian,QC Passed,18-MAY-15,06-JUN-15    
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Norwegian,QC Passed,18-MAY-15,06-JUN-15    
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Romanian,QC Passed,18-MAY-15,06-JUN-15     
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Russian,QC Passed,18-MAY-15,06-JUN-15      
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Swedish,QC Passed,18-MAY-15,06-JUN-15      
+EHD/122408B-CVEU,17-NOV-15,16-JUN-15,Turkish,,18-MAY-15,07-NOV-15               
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Arabic,QC Passed,18-MAY-15,13-JUN-15       
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Czech,QC Passed,18-MAY-15,13-JUN-15        
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Danish,QC Passed,18-MAY-15,13-JUN-15       
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Dutch,QC Passed,18-MAY-15,13-JUN-15        
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Hungarian,QC Passed,18-MAY-15,13-JUN-15    
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Norwegian,QC Passed,18-MAY-15,13-JUN-15    
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Romanian,QC Passed,18-MAY-15,13-JUN-15     
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Russian,,18-MAY-15,14-NOV-15               
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Swedish,QC Passed,18-MAY-15,13-JUN-15      
+EHD/122413B-CVEU,24-NOV-15,23-JUN-15,Turkish,QC Passed,18-MAY-15,13-JUN-15      
+EHD/122572C-DDEN,,14-JUN-15,Danish,,22-APR-15,                                  
+EHD/122572D-DDEN,,09-JUN-15,Danish,,22-APR-15,                                  
+EHD/122573C-DDEN,,21-JUN-15,Danish,,22-APR-15,                                  
+EHD/122573D-DDEN,,16-JUN-15,Danish,,22-APR-15,                                  
+EHD/122574C-DDEN,,28-JUN-15,Danish,,22-APR-15,                                  
+EHD/122574D-DDEN,,23-JUN-15,Danish,,22-APR-15,                                  
+EHD/122575C-DIBE,28-OCT-15,09-AUG-15,Portuguese,QC Passed,18-JUN-15,18-OCT-15   
+EHD/122575C-DIBE,28-OCT-15,09-AUG-15,Spanish,Received,18-JUN-15,18-OCT-15       
+EHD/122575D-DDEN,,30-JUN-15,Danish,,22-APR-15,                                  
+EHD/122578D-DNOR,,09-JUN-15,Norwegian,,22-APR-15,                               
+EHD/122983B-DHUN,30-SEP-15,30-SEP-15,Czech,With Vendor,10-AUG-15,07-SEP-15      
+EHD/122983B-DHUN,30-SEP-15,30-SEP-15,Hungarian,With Vendor,10-AUG-15,07-SEP-15  
+EHD/123220E-TLPR,,,Czech,,08-JUL-15,                                            
+EHD/123220E-TLPR,,,Estonian,,08-JUL-15,                                         
+EHD/123220E-TLPR,,,Greek,,08-JUL-15,                                            
+EHD/123220E-TLPR,,,Hungarian,,08-JUL-15,                                        
+EHD/123220E-TLPR,,,Portuguese,,08-JUL-15,                                       
+EHD/123220E-TLPR,,,Russian,,08-JUL-15,                                          
+EHD/123377F-DNOR,,03-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15           
+EHD/123788G-DHUN,31-AUG-15,31-AUG-15,Czech,With Vendor,13-JUL-15,10-AUG-15      
+EHD/123788G-DHUN,31-AUG-15,31-AUG-15,Hungarian,With Vendor,13-JUL-15,10-AUG-15  
+EHD/123789B-DITA,,,Italian,,16-JUN-15,                                          
+EHD/123868C-DBEN,22-AUG-15,07-AUG-15,Dutch,,09-JUL-15,12-AUG-15                 
+EHD/123890D-DITA,,,Italian,With Vendor,01-JUL-15,29-JUL-15                      
+EHD/123906I-SCFR,,,French,With Vendor,31-JUL-15,28-AUG-15                       
+EHD/123931B-DHUN,30-AUG-15,30-AUG-15,Hungarian,With Vendor,23-JUN-15,21-JUL-15  
+EHD/123938B-DMEA,18-AUG-15,18-AUG-15,Arabic,With Vendor,02-JUL-15,30-JUL-15     
+EHD/123938B-DMEA,18-AUG-15,18-AUG-15,Hebrew,With Vendor,02-JUL-15,30-JUL-15     
+EHD/123940B-DBEN,,06-AUG-15,Dutch,With Vendor,07-JUL-15,04-AUG-15               
+EHD/123942B-DSMX,,19-JUL-15,Spanish,Received,09-JUN-15,                         
+EHD/123944B-DSMX,,25-JUL-15,Spanish,Received,09-JUN-15,                         
+EHD/123945B-DSMX,,26-JUL-15,Spanish,,15-APR-15,                                 
+EHD/123949B-DSMX,,,Spanish,Received,16-JUN-15,                                  
+EHD/123950B-DSMX,,,Spanish,Received,17-JUN-15,                                  
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/124250C-TLBA,17-SEP-15,17-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/124253M-DFRA,,,French,With Vendor,29-JUN-15,27-JUL-15                       
+EHD/124254M-DFRA,,,French,With Vendor,29-JUN-15,27-JUL-15                       
+EHD/124256C-DHUN,28-SEP-15,28-SEP-15,Czech,With Vendor,10-AUG-15,07-SEP-15      
+EHD/124256C-DHUN,28-SEP-15,28-SEP-15,Hungarian,With Vendor,10-AUG-15,07-SEP-15  
+EHD/124257E-DBEN,15-AUG-15,09-JUL-15,Dutch,,08-JUN-15,05-AUG-15                 
+EHD/124257E-DIBE,13-SEP-15,31-JUL-15,Portuguese,QC Passed,25-JUN-15,03-SEP-15   
+EHD/124257E-DIBE,13-SEP-15,31-JUL-15,Spanish,With Vendor,25-JUN-15,23-JUL-15    
+EHD/124257J-DBEN,03-OCT-15,10-JUL-15,Dutch,,08-JUN-15,23-SEP-15                 
+EHD/124258J-DHUN,12-SEP-15,12-SEP-15,Czech,With Vendor,07-JUL-15,04-AUG-15      
+EHD/124258J-DHUN,12-SEP-15,12-SEP-15,Hungarian,With Vendor,07-JUL-15,04-AUG-15  
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Albanian,,23-APR-15,06-OCT-15              
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Bulgarian,,23-APR-15,06-OCT-15             
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Croatian,,23-APR-15,06-OCT-15              
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Macedonian,,23-APR-15,06-OCT-15            
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Romanian,,23-APR-15,06-OCT-15              
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Serbian,,23-APR-15,06-OCT-15               
+EHD/124261E-TLBA,16-OCT-15,05-JUN-15,Slovenian,,23-APR-15,06-OCT-15             
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Arabic,With Vendor,10-AUG-15,07-SEP-15     
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Czech,With Vendor,10-AUG-15,07-SEP-15      
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Danish,With Vendor,10-AUG-15,07-SEP-15     
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Dutch,With Vendor,10-AUG-15,07-SEP-15      
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Hungarian,With Vendor,10-AUG-15,07-SEP-15  
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Norwegian,With Vendor,10-AUG-15,07-SEP-15  
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Romanian,With Vendor,10-AUG-15,07-SEP-15   
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Russian,With Vendor,10-AUG-15,07-SEP-15    
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Swedish,With Vendor,10-AUG-15,07-SEP-15    
+EHD/124267I-CVEU,27-SEP-15,27-SEP-15,Turkish,With Vendor,10-AUG-15,07-SEP-15    
+EHD/124275C-DSMX,12-SEP-15,12-SEP-15,Spanish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Croatian,QC Passed,08-JUL-15,09-AUG-15     
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Greek,QC Passed,08-JUL-15,09-AUG-15        
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15    
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Macedonian,QC Passed,08-JUL-15,09-AUG-15   
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Russian,QC Passed,08-JUL-15,09-AUG-15      
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Serbian,QC Passed,08-JUL-15,09-AUG-15      
+EHD/124277C-DCEN,19-AUG-15,19-AUG-15,Slovenian,QC Passed,08-JUL-15,09-AUG-15    
+EHD/124277C-DSFT,27-AUG-15,27-AUG-15,Turkish,With Vendor,07-JUL-15,04-AUG-15    
+EHD/124286C-CVEU,04-NOV-15,15-JUL-15,Arabic,QC Passed,27-MAY-15,05-JUL-15       
+EHD/124286C-CVEU,04-NOV-15,15-JUL-15,Danish,QC Passed,27-MAY-15,05-JUL-15       
+EHD/124286C-CVEU,04-NOV-15,15-JUL-15,Hungarian,,27-MAY-15,24-OCT-15             
+EHD/124286C-CVEU,04-NOV-15,15-JUL-15,Romanian,QC Passed,27-MAY-15,05-JUL-15     
+EHD/124287C-CVEU,05-NOV-15,22-JUL-15,Danish,QC Passed,27-MAY-15,12-JUL-15       
+EHD/124287C-CVEU,05-NOV-15,22-JUL-15,Dutch,QC Passed,27-MAY-15,12-JUL-15        
+EHD/124287C-CVEU,05-NOV-15,22-JUL-15,Hungarian,,27-MAY-15,25-OCT-15             
+EHD/124287C-CVEU,05-NOV-15,22-JUL-15,Romanian,QC Passed,27-MAY-15,12-JUL-15     
+EHD/124287C-CVEU,05-NOV-15,22-JUL-15,Swedish,QC Passed,27-MAY-15,12-JUL-15      
+EHD/124516C-DDEN,06-SEP-15,06-JUL-15,Danish,,27-MAY-15,27-AUG-15                
+EHD/124516C-DDEN,06-SEP-15,06-JUL-15,Dutch,,27-MAY-15,27-AUG-15                 
+EHD/124516C-DDEN,06-SEP-15,06-JUL-15,Norwegian,,27-MAY-15,27-AUG-15             
+EHD/124516C-DSMX,,03-AUG-15,Spanish,QC Passed,03-JUL-15,24-JUL-15               
+EHD/124516C-DSMX,,03-AUG-15,Spanish HoH,,15-JUL-15,                             
+EHD/124517C-DDEN,06-SEP-15,13-JUL-15,Danish,,27-MAY-15,27-AUG-15                
+EHD/124517C-DDEN,06-SEP-15,13-JUL-15,Dutch,,27-MAY-15,27-AUG-15                 
+EHD/124517C-DDEN,06-SEP-15,13-JUL-15,Norwegian,,27-MAY-15,27-AUG-15             
+EHD/124517C-DPOL,13-SEP-15,02-AUG-15,Polish,QC Passed,06-JUL-15,03-SEP-15       
+EHD/124517C-DPOL,13-SEP-15,02-AUG-15,Polish HoH,With Vendor,28-JUL-15,25-AUG-15 
+EHD/124518C-DBEN,12-SEP-15,05-AUG-15,Dutch,,07-JUL-15,02-SEP-15                 
+EHD/124518C-DBEN,12-SEP-15,05-AUG-15,Norwegian,,07-JUL-15,02-SEP-15             
+EHD/124518C-DDEN,13-SEP-15,20-JUL-15,Danish,,27-MAY-15,03-SEP-15                
+EHD/124518C-DPOL,14-AUG-15,09-AUG-15,Polish,QC Passed,21-JUL-15,30-JUL-15       
+EHD/124518C-DPOL,14-AUG-15,09-AUG-15,Polish HoH,,23-JUL-15,04-AUG-15            
+EHD/124520C-DDEN,14-AUG-15,10-AUG-15,Danish,With Vendor,10-AUG-15,04-AUG-15     
+EHD/124520C-DDEN,14-AUG-15,10-AUG-15,Dutch,With Vendor,10-AUG-15,04-AUG-15      
+EHD/124520C-DDEN,14-AUG-15,10-AUG-15,Norwegian,With Vendor,10-AUG-15,04-AUG-15  
+EHD/124521C-DSMX,31-AUG-15,31-AUG-15,Spanish,With Vendor,28-JUL-15,21-AUG-15    
+EHD/124521C-DSMX,31-AUG-15,31-AUG-15,Spanish HoH,With Vendor,11-AUG-15,21-AUG-15
+EHD/124546C-DSWE,21-AUG-15,21-AUG-15,Finnish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/124546C-DSWE,21-AUG-15,21-AUG-15,Swedish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/124663D-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/124693B-IDPL,,,Polish,,28-JUL-15,                                           
+EHD/124695B-IDPL,,,Polish,,28-JUL-15,                                           
+EHD/124696B-IDPL,,,Polish,,28-JUL-15,                                           
+EHD/124696B-IDSW,,,Swedish,,28-JUL-15,                                          
+EHD/124697B-IDPL,,,Polish,,28-JUL-15,                                           
+EHD/124697B-IDSW,,,Swedish,,28-JUL-15,                                          
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Bulgarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Estonian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Greek,With Vendor,11-AUG-15,08-SEP-15      
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Hungarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Romanian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Russian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Serbian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Slovak,With Vendor,11-AUG-15,08-SEP-15     
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Slovenian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/124697B-IDXE,09-OCT-15,09-OCT-15,Turkish,With Vendor,11-AUG-15,08-SEP-15    
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Croatian,QC Passed,08-JUL-15,10-AUG-15     
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Greek,QC Passed,08-JUL-15,10-AUG-15        
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15    
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Macedonian,QC Passed,08-JUL-15,10-AUG-15   
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Russian,QC Passed,08-JUL-15,10-AUG-15      
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Serbian,QC Passed,08-JUL-15,10-AUG-15      
+EHD/124798B-DCEN,20-AUG-15,20-AUG-15,Slovenian,QC Passed,08-JUL-15,10-AUG-15    
+EHD/124799F-DFRA,03-SEP-15,03-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/124800B-CIPO,10-SEP-15,02-JUN-15,Polish,,21-APR-15,31-AUG-15                
+EHD/124800B-DBEN,12-AUG-15,12-AUG-15,Dutch,With Vendor,08-JUL-15,02-AUG-15      
+EHD/124929B-DBEN,,02-AUG-15,Dutch,With Vendor,08-JUL-15,05-AUG-15               
+EHD/124931B-DBEN,,09-AUG-15,Dutch,,08-JUL-15,                                   
+EHD/124943C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124945C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124946C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124949C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124950C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124953C-DFRA,,,French,With Vendor,06-AUG-15,03-SEP-15                       
+EHD/124961D-DMEA,17-SEP-15,17-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/124961D-DMEA,17-SEP-15,17-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Croatian,QC Passed,09-JUL-15,08-AUG-15     
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Czech,QC Passed,09-JUL-15,08-AUG-15        
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Greek,QC Passed,09-JUL-15,08-AUG-15        
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Macedonian,QC Passed,09-JUL-15,08-AUG-15   
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Russian,QC Passed,09-JUL-15,08-AUG-15      
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Serbian,QC Passed,09-JUL-15,08-AUG-15      
+EHD/124970E-DCEN,18-AUG-15,18-AUG-15,Slovenian,QC Passed,09-JUL-15,08-AUG-15    
+EHD/124974E-DDEN,,17-JUL-15,Danish,,26-MAY-15,                                  
+EHD/124980B-DBEN,,03-AUG-15,Dutch,With Vendor,08-JUL-15,05-AUG-15               
+EHD/124981B-DBEN,15-AUG-15,10-AUG-15,Dutch,With Vendor,08-JUL-15,05-AUG-15      
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Croatian,QC Passed,09-JUL-15,21-AUG-15     
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Estonian,QC Passed,10-JUL-15,21-AUG-15     
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Greek,QC Passed,09-JUL-15,21-AUG-15        
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Latvian,QC Passed,10-JUL-15,21-AUG-15      
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Macedonian,QC Passed,09-JUL-15,21-AUG-15   
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Russian,With Vendor,09-JUL-15,06-AUG-15    
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Serbian,With Vendor,09-JUL-15,06-AUG-15    
+EHD/124985B-DCEN,31-AUG-15,31-AUG-15,Slovenian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/124985B-DNOR,28-NOV-15,08-JUL-15,Danish,,04-JUN-15,18-NOV-15                
+EHD/124985B-DNOR,28-NOV-15,08-JUL-15,Finnish,,04-JUN-15,18-NOV-15               
+EHD/124985B-DNOR,28-NOV-15,08-JUL-15,Norwegian,,04-JUN-15,18-NOV-15             
+EHD/124985B-DNOR,28-NOV-15,08-JUL-15,Swedish,,04-JUN-15,18-NOV-15               
+EHD/124985B-DSFT,24-AUG-15,24-AUG-15,Turkish,With Vendor,07-JUL-15,04-AUG-15    
+EHD/124986B-DNOR,05-DEC-15,15-JUL-15,Finnish,,28-MAY-15,25-NOV-15               
+EHD/124986B-DNOR,05-DEC-15,15-JUL-15,Norwegian,,28-MAY-15,25-NOV-15             
+EHD/124986B-DNOR,05-DEC-15,15-JUL-15,Swedish,,28-MAY-15,25-NOV-15               
+EHD/124987B-DNOR,12-DEC-15,22-JUL-15,Norwegian,,28-MAY-15,02-DEC-15             
+EHD/124998D-DNOR,,06-AUG-15,Norwegian,With Vendor,09-JUL-15,06-AUG-15           
+EHD/125002C-DBEN,,,Dutch,,07-AUG-15,                                            
+EHD/125002C-DCBU,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/125002C-DCEN,,,Croatian,,07-AUG-15,                                         
+EHD/125002C-DCEN,,,Czech,,07-AUG-15,                                            
+EHD/125002C-DCEN,,,Greek,,07-AUG-15,                                            
+EHD/125002C-DCEN,,,Macedonian,,07-AUG-15,                                       
+EHD/125002C-DCEN,,,Serbian,,07-AUG-15,                                          
+EHD/125002C-DCEN,,,Slovak,,07-AUG-15,                                           
+EHD/125002C-DCEN,,,Slovenian,,07-AUG-15,                                        
+EHD/125002C-DCFI,,,Finnish,,07-AUG-15,                                          
+EHD/125002C-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/125002C-DHUN,,,Hungarian,,07-AUG-15,                                        
+EHD/125002C-DNOR,,,Norwegian,,07-AUG-15,                                        
+EHD/125002C-DSWE,,,Swedish,,07-AUG-15,                                          
+EHD/125032D-DBEN,09-NOV-15,04-AUG-15,Dutch,With Vendor,10-AUG-15,07-SEP-15      
+EHD/125035C-DBEN,02-NOV-15,28-JUL-15,Dutch,,03-JUN-15,22-OCT-15                 
+EHD/125232C-DNOR,09-NOV-15,14-JUL-15,Norwegian,,08-JUN-15,29-OCT-15             
+EHD/125232C-HDEU,,,Danish,,29-JUL-15,                                           
+EHD/125232C-HDEU,,,Dutch,,29-JUL-15,                                            
+EHD/125232C-HDEU,,,Greek,,29-JUL-15,                                            
+EHD/125232C-HDEU,,,Hungarian,,29-JUL-15,                                        
+EHD/125232C-HDEU,,,Portuguese,,29-JUL-15,                                       
+EHD/125232C-HDEU,,,Romanian,,29-JUL-15,                                         
+EHD/125232C-HDEU,,,Russian,,29-JUL-15,                                          
+EHD/125232C-HDEU,,,Slovak,,29-JUL-15,                                           
+EHD/125232C-HDEU,,,Turkish,,29-JUL-15,                                          
+EHD/125233C-DNOR,10-NOV-15,21-JUL-15,Norwegian,,08-JUN-15,30-OCT-15             
+EHD/125233C-HDEU,,,Danish,,29-JUL-15,                                           
+EHD/125233C-HDEU,,,Dutch,,29-JUL-15,                                            
+EHD/125233C-HDEU,,,Finnish,,29-JUL-15,                                          
+EHD/125233C-HDEU,,,Greek,,29-JUL-15,                                            
+EHD/125233C-HDEU,,,Hungarian,,29-JUL-15,                                        
+EHD/125233C-HDEU,,,Portuguese,,29-JUL-15,                                       
+EHD/125233C-HDEU,,,Romanian,,29-JUL-15,                                         
+EHD/125233C-HDEU,,,Russian,,29-JUL-15,                                          
+EHD/125233C-HDEU,,,Slovak,,29-JUL-15,                                           
+EHD/125233C-HDEU,,,Swedish,,29-JUL-15,                                          
+EHD/125233C-HDEU,,,Turkish,,29-JUL-15,                                          
+EHD/125234C-DNOR,26-SEP-15,28-JUL-15,Norwegian,,08-JUN-15,16-SEP-15             
+EHD/125283B-DCFI,,,Finnish,,27-JUL-15,                                          
+EHD/125283B-DDEN,,,Danish,,27-JUL-15,                                           
+EHD/125283B-DNOR,,,Norwegian,,27-JUL-15,                                        
+EHD/125283B-DPOL,,,Polish,,27-JUL-15,                                           
+EHD/125283B-DSWE,,,Swedish,,27-JUL-15,                                          
+EHD/125284B-DCFI,,,Finnish,,28-JUL-15,                                          
+EHD/125284B-DDEN,,,Danish,,28-JUL-15,                                           
+EHD/125284B-DNOR,,,Norwegian,,28-JUL-15,                                        
+EHD/125284B-DPOL,,,Polish,,28-JUL-15,                                           
+EHD/125284B-DSWE,,,Swedish,,28-JUL-15,                                          
+EHD/125471B-DIBE,15-AUG-15,10-AUG-15,Portuguese,With Vendor,28-JUL-15,05-AUG-15 
+EHD/126767E-SCFR,,,French,With Vendor,31-JUL-15,28-AUG-15                       
+EHD/126862B-DPOL,02-SEP-15,02-SEP-15,Polish,With Vendor,23-JUL-15,20-AUG-15     
+EHD/126863B-DPOL,09-SEP-15,09-SEP-15,Polish,With Vendor,27-JUL-15,24-AUG-15     
+EHD/126865B-DPOL,23-SEP-15,23-SEP-15,Polish,With Vendor,27-JUL-15,24-AUG-15     
+EHD/126866B-DMEA,22-AUG-15,22-AUG-15,Arabic,With Vendor,03-AUG-15,12-AUG-15     
+EHD/126866B-DMEA,22-AUG-15,22-AUG-15,Hebrew,With Vendor,03-AUG-15,12-AUG-15     
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Croatian,QC Passed,09-JUL-15,05-AUG-15     
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Estonian,With Vendor,10-JUL-15,05-AUG-15   
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Greek,QC Passed,09-JUL-15,05-AUG-15        
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Latvian,With Vendor,10-JUL-15,05-AUG-15    
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Macedonian,QC Passed,09-JUL-15,05-AUG-15   
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Serbian,QC Passed,09-JUL-15,05-AUG-15      
+EHD/126866C-DCEN,15-AUG-15,15-AUG-15,Slovenian,QC Passed,09-JUL-15,05-AUG-15    
+EHD/126866C-DPOL,30-SEP-15,30-SEP-15,Polish,With Vendor,27-JUL-15,24-AUG-15     
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Arabic,,08-JUN-15,02-AUG-15                
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Czech,,19-JUN-15,02-AUG-15                 
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Danish,,08-JUN-15,02-AUG-15                
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Dutch,,08-JUN-15,02-AUG-15                 
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Greek,,08-JUN-15,02-AUG-15                 
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Hungarian,,08-JUN-15,02-AUG-15             
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Norwegian,,08-JUN-15,02-AUG-15             
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Romanian,,08-JUN-15,02-AUG-15              
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Russian,,08-JUN-15,02-AUG-15               
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Serbian,,08-JUN-15,02-AUG-15               
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Swedish,,08-JUN-15,02-AUG-15               
+EHD/126907B-SCEU,12-AUG-15,12-AUG-15,Turkish,,08-JUN-15,02-AUG-15               
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Arabic,,08-JUN-15,02-AUG-15                
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Czech,,19-JUN-15,02-AUG-15                 
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Danish,,08-JUN-15,02-AUG-15                
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Dutch,,08-JUN-15,02-AUG-15                 
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Greek,,08-JUN-15,02-AUG-15                 
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Hungarian,,08-JUN-15,02-AUG-15             
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Norwegian,,08-JUN-15,02-AUG-15             
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Romanian,,08-JUN-15,02-AUG-15              
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Russian,,08-JUN-15,02-AUG-15               
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Serbian,,08-JUN-15,02-AUG-15               
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Swedish,,08-JUN-15,02-AUG-15               
+EHD/126908B-SCEU,12-AUG-15,12-AUG-15,Turkish,,08-JUN-15,02-AUG-15               
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Albanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Bulgarian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Croatian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Macedonian,With Vendor,25-JUN-15,23-JUL-15 
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Romanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Serbian,With Vendor,25-JUN-15,23-JUL-15    
+EHD/127006B-TLBA,29-AUG-15,29-AUG-15,Slovenian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/127054F-SCFR,10-SEP-15,10-SEP-15,French,With Vendor,30-JUN-15,28-JUL-15     
+EHD/127065E-DXIT,,10-AUG-15,Italian,With Vendor,20-JUL-15,17-AUG-15             
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Croatian,QC Passed,09-JUL-15,05-AUG-15     
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Estonian,With Vendor,10-JUL-15,05-AUG-15   
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Greek,QC Passed,09-JUL-15,05-AUG-15        
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Macedonian,QC Passed,09-JUL-15,05-AUG-15   
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Serbian,QC Passed,09-JUL-15,05-AUG-15      
+EHD/127121B-DCEN,15-AUG-15,15-AUG-15,Slovenian,QC Passed,09-JUL-15,05-AUG-15    
+EHD/127204C-DSWE,07-SEP-15,20-JUL-15,Dutch,,04-JUN-15,28-AUG-15                 
+EHD/127204C-DSWE,07-SEP-15,20-JUL-15,Finnish,,04-JUN-15,28-AUG-15               
+EHD/127204C-DSWE,07-SEP-15,20-JUL-15,Norwegian,,04-JUN-15,28-AUG-15             
+EHD/127204C-DSWE,07-SEP-15,20-JUL-15,Swedish,,04-JUN-15,28-AUG-15               
+EHD/127204I-DFRA,,,French,With Vendor,07-AUG-15,04-SEP-15                       
+EHD/127205C-DIBE,09-SEP-15,30-JUL-15,Portuguese,QC Passed,30-JUN-15,30-AUG-15   
+EHD/127205C-DIBE,09-SEP-15,30-JUL-15,Spanish,With Vendor,30-JUN-15,28-JUL-15    
+EHD/127205C-DSWE,14-SEP-15,27-JUL-15,Finnish,,04-JUN-15,04-SEP-15               
+EHD/127205C-DSWE,14-SEP-15,27-JUL-15,Norwegian,,04-JUN-15,04-SEP-15             
+EHD/127205C-DSWE,14-SEP-15,27-JUL-15,Swedish,,04-JUN-15,04-SEP-15               
+EHD/127208D-TLCK,,,English HoH,,16-JUN-15,                                      
+EHD/127209D-TLCK,,,English HoH,,16-JUN-15,                                      
+EHD/127213D-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/127214D-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Albanian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Bulgarian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Czech,QC Passed,11-JUN-15,14-AUG-15        
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Estonian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Greek,With Vendor,11-JUN-15,09-JUL-15      
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Hungarian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Romanian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Russian,With Vendor,11-JUN-15,09-JUL-15    
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Serbian,With Vendor,11-JUN-15,09-JUL-15    
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Slovenian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127371C-IDXE,24-AUG-15,24-AUG-15,Turkish,QC Passed,11-JUN-15,14-AUG-15      
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Albanian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Bulgarian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Czech,QC Passed,11-JUN-15,07-AUG-15        
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Estonian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Greek,With Vendor,11-JUN-15,09-JUL-15      
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Hungarian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Romanian,With Vendor,11-JUN-15,09-JUL-15   
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Russian,QC Passed,11-JUN-15,07-AUG-15      
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Serbian,With Vendor,11-JUN-15,09-JUL-15    
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Slovenian,With Vendor,11-JUN-15,09-JUL-15  
+EHD/127380F-IDXE,17-AUG-15,17-AUG-15,Turkish,QC Passed,11-JUN-15,07-AUG-15      
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Czech,With Vendor,11-AUG-15,08-SEP-15      
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Estonian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Greek,With Vendor,11-AUG-15,08-SEP-15      
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Hungarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Romanian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Russian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Serbian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Slovenian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127396D-IDXE,11-OCT-15,11-OCT-15,Turkish,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Bulgarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Czech,With Vendor,11-AUG-15,08-SEP-15      
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Estonian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Greek,With Vendor,11-AUG-15,08-SEP-15      
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Hungarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Romanian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Russian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Serbian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Slovenian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127398C-IDXE,04-OCT-15,04-OCT-15,Turkish,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Bulgarian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Estonian,With Vendor,09-JUL-15,06-AUG-15   
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Greek,With Vendor,09-JUL-15,06-AUG-15      
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Hungarian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Romanian,With Vendor,09-JUL-15,06-AUG-15   
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Russian,QC Passed,09-JUL-15,02-SEP-15      
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Serbian,With Vendor,09-JUL-15,06-AUG-15    
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Slovak,With Vendor,09-JUL-15,06-AUG-15     
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Slovenian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/127408B-IDXE,12-SEP-15,12-SEP-15,Turkish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Bulgarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Estonian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Greek,With Vendor,11-AUG-15,08-SEP-15      
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Hungarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Romanian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Russian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Serbian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Slovak,With Vendor,11-AUG-15,08-SEP-15     
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Slovenian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/127411B-IDXE,03-OCT-15,03-OCT-15,Turkish,With Vendor,11-AUG-15,08-SEP-15    
+EHD/127533B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127533B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127534B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127534B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127535B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127535B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127536B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127536B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127537B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127537B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127538B-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/127538B-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/127692B-DPOL,,04-AUG-15,Polish,,22-JUN-15,                                  
+EHD/127693B-DPOL,15-AUG-15,15-AUG-15,Polish,,22-JUN-15,05-AUG-15                
+EHD/127717B-IDEU,19-AUG-15,19-AUG-15,Arabic,With Vendor,08-JUN-15,06-JUL-15     
+EHD/127717B-IDEU,19-AUG-15,19-AUG-15,Dutch,With Vendor,08-JUN-15,06-JUL-15      
+EHD/127717B-IDEU,19-AUG-15,19-AUG-15,Finnish,With Vendor,08-JUN-15,06-JUL-15    
+EHD/127717B-IDEU,19-AUG-15,19-AUG-15,Norwegian,With Vendor,08-JUN-15,06-JUL-15  
+EHD/127719B-IDEU,26-AUG-15,26-AUG-15,Arabic,QC Passed,08-JUN-15,16-AUG-15       
+EHD/127719B-IDEU,26-AUG-15,26-AUG-15,Dutch,With Vendor,08-JUN-15,06-JUL-15      
+EHD/127719B-IDEU,26-AUG-15,26-AUG-15,Finnish,With Vendor,08-JUN-15,06-JUL-15    
+EHD/127719B-IDEU,26-AUG-15,26-AUG-15,Norwegian,With Vendor,08-JUN-15,06-JUL-15  
+EHD/127721B-IDXE,,02-AUG-15,Albanian,QC Passed,10-JUN-15,23-JUL-15              
+EHD/127721B-IDXE,,02-AUG-15,Bulgarian,QC Passed,10-JUN-15,23-JUL-15             
+EHD/127721B-IDXE,,02-AUG-15,Czech,,24-JUL-15,                                   
+EHD/127721B-IDXE,,02-AUG-15,Estonian,QC Passed,10-JUN-15,08-JUL-15              
+EHD/127721B-IDXE,,02-AUG-15,Greek,QC Passed,10-JUN-15,23-JUL-15                 
+EHD/127721B-IDXE,,02-AUG-15,Hungarian,QC Passed,10-JUN-15,23-JUL-15             
+EHD/127721B-IDXE,,02-AUG-15,Romanian,QC Passed,10-JUN-15,23-JUL-15              
+EHD/127721B-IDXE,,02-AUG-15,Russian,QC Passed,10-JUN-15,08-JUL-15               
+EHD/127721B-IDXE,,02-AUG-15,Serbian,QC Passed,10-JUN-15,08-JUL-15               
+EHD/127721B-IDXE,,02-AUG-15,Slovenian,QC Passed,23-JUL-15,23-JUL-15             
+EHD/127721B-IDXE,,02-AUG-15,Turkish,QC Passed,10-JUN-15,08-JUL-15               
+EHD/127747B-DROM,,,Romanian,,03-JUL-15,                                         
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Croatian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Dutch,With Vendor,30-JUL-15,27-AUG-15      
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Macedonian,With Vendor,30-JUL-15,27-AUG-15 
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127996C-AHDE,09-SEP-15,09-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Croatian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Dutch,With Vendor,30-JUL-15,27-AUG-15      
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Macedonian,With Vendor,30-JUL-15,27-AUG-15 
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/127997C-AHDE,10-SEP-15,10-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Croatian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Dutch,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Macedonian,With Vendor,30-JUL-15,27-AUG-15 
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128000C-AHDE,15-SEP-15,15-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Croatian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Dutch,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Macedonian,With Vendor,30-JUL-15,27-AUG-15 
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128001C-AHDE,16-SEP-15,16-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Croatian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Dutch,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Macedonian,With Vendor,30-JUL-15,27-AUG-15 
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128002C-AHDE,17-SEP-15,17-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/128037B-DDEN,12-AUG-15,12-AUG-15,Danish,With Vendor,07-JUL-15,02-AUG-15     
+EHD/128037B-DDEN,12-AUG-15,12-AUG-15,Finnish,With Vendor,07-JUL-15,02-AUG-15    
+EHD/128037B-DDEN,12-AUG-15,12-AUG-15,Swedish,With Vendor,07-JUL-15,02-AUG-15    
+EHD/128037F-DSFT,07-SEP-15,07-SEP-15,Turkish,With Vendor,04-AUG-15,28-AUG-15    
+EHD/128038E-DMEA,14-SEP-15,14-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128038E-DMEA,14-SEP-15,14-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128038F-DMEA,15-SEP-15,15-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128038F-DMEA,15-SEP-15,15-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128039J-DFRA,,,French,With Vendor,29-JUN-15,27-JUL-15                       
+EHD/128040B-DCEN,,09-AUG-15,Croatian,QC Passed,09-JUL-15,                       
+EHD/128040B-DCEN,,09-AUG-15,Estonian,QC Passed,10-JUL-15,                       
+EHD/128040B-DCEN,,09-AUG-15,Greek,QC Passed,09-JUL-15,                          
+EHD/128040B-DCEN,,09-AUG-15,Latvian,With Vendor,10-JUL-15,07-AUG-15             
+EHD/128040B-DCEN,,09-AUG-15,Macedonian,QC Passed,09-JUL-15,                     
+EHD/128040B-DCEN,,09-AUG-15,Russian,QC Passed,09-JUL-15,                        
+EHD/128040B-DCEN,,09-AUG-15,Serbian,QC Passed,09-JUL-15,                        
+EHD/128040B-DCEN,,09-AUG-15,Slovak,QC Passed,09-JUL-15,                         
+EHD/128040B-DCEN,,09-AUG-15,Slovenian,QC Passed,09-JUL-15,                      
+EHD/128040B-DNOR,,07-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/128041B-DNOR,,14-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/128042B-DNOR,,21-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/128043B-DNOR,,28-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/128044B-DNOR,,04-AUG-15,Norwegian,With Vendor,09-JUL-15,06-AUG-15           
+EHD/128049F-DCUK,,,English HoH,,18-JUN-15,                                      
+EHD/128054E-DCUK,,,English HoH,,14-JUL-15,                                      
+EHD/128062C-DCUK,,,English HoH,,18-JUN-15,                                      
+EHD/128063C-DCUK,,,English HoH,,18-JUN-15,                                      
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Albanian,,23-APR-15,07-NOV-15              
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Bulgarian,,23-APR-15,07-NOV-15             
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Croatian,,23-APR-15,07-NOV-15              
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Macedonian,,23-APR-15,07-NOV-15            
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Romanian,,23-APR-15,07-NOV-15              
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Serbian,,23-APR-15,07-NOV-15               
+EHD/128110B-TLBA,17-NOV-15,07-JUN-15,Slovenian,,23-APR-15,07-NOV-15             
+EHD/128115D-DHUN,26-OCT-15,02-AUG-15,Hungarian,,25-JUN-15,16-OCT-15             
+EHD/128115D-DHUN,26-OCT-15,02-AUG-15,Slovak,QC Passed,29-JUN-15,16-OCT-15       
+EHD/128117D-DMEA,15-SEP-15,15-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128117D-DMEA,15-SEP-15,15-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/128175B-DSFT,,07-AUG-15,Turkish,,20-APR-15,                                 
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Croatian,QC Passed,09-JUL-15,17-AUG-15     
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Estonian,QC Passed,10-JUL-15,17-AUG-15     
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Greek,QC Passed,09-JUL-15,17-AUG-15        
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Macedonian,QC Passed,09-JUL-15,17-AUG-15   
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Serbian,With Vendor,09-JUL-15,06-AUG-15    
+EHD/128177B-DCEN,27-AUG-15,27-AUG-15,Slovenian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/128177D-DSFT,12-AUG-15,12-AUG-15,Turkish,Received,07-AUG-15,02-AUG-15       
+EHD/128178C-DSMX,,,Spanish,With Vendor,06-JUL-15,03-AUG-15                      
+EHD/128241C-DCUK,,,English HoH,,14-JUL-15,                                      
+EHD/128243C-DHUN,30-AUG-15,30-AUG-15,Hungarian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/128243C-DHUN,30-AUG-15,30-AUG-15,Slovak,With Vendor,25-JUN-15,23-JUL-15     
+EHD/128243C-DPOL,30-AUG-15,30-AUG-15,Polish,With Vendor,22-JUN-15,20-JUL-15     
+EHD/128243F-DCUK,,,English HoH,,14-JUL-15,                                      
+EHD/128411B-TLPR,20-SEP-15,20-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/128411B-TLPR,20-SEP-15,20-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/128411B-TLPR,20-SEP-15,20-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/128411B-TLPR,20-SEP-15,20-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/128411B-TLPR,20-SEP-15,20-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/128541G-DHUN,29-AUG-15,29-AUG-15,Hungarian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/128541G-DHUN,29-AUG-15,29-AUG-15,Slovak,QC Passed,25-JUN-15,19-AUG-15       
+EHD/128542J-DSMX,22-AUG-15,22-AUG-15,Spanish,With Vendor,27-JUL-15,12-AUG-15    
+EHD/128542J-DSMX,22-AUG-15,22-AUG-15,Spanish HoH,With Vendor,11-AUG-15,12-AUG-15
+EHD/128560E-DHUN,18-AUG-15,18-AUG-15,Hungarian,With Vendor,30-JUL-15,08-AUG-15  
+EHD/128560E-DHUN,18-AUG-15,18-AUG-15,Hungarian,With Vendor,30-JUL-15,08-AUG-15  
+EHD/128560E-DHUN,18-AUG-15,18-AUG-15,Slovak,With Vendor,30-JUL-15,08-AUG-15     
+EHD/128560E-DHUN,18-AUG-15,18-AUG-15,Slovak,With Vendor,30-JUL-15,08-AUG-15     
+EHD/128560E-DPOL,17-AUG-15,17-AUG-15,Polish,With Vendor,03-AUG-15,07-AUG-15     
+EHD/128560E-DPOL,17-AUG-15,17-AUG-15,Polish,With Vendor,03-AUG-15,07-AUG-15     
+EHD/128563D-DMEA,,,Arabic,,03-JUL-15,                                           
+EHD/128563D-DMEA,,,Hebrew,,03-JUL-15,                                           
+EHD/128563D-DSFT,,,Turkish,,07-JUL-15,                                          
+EHD/128735D-RTIT,04-DEC-15,04-DEC-15,Italian,,06-AUG-15,24-NOV-15               
+EHD/128736E-RTIT,04-DEC-15,04-DEC-15,Italian,,06-AUG-15,24-NOV-15               
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Russian,With Vendor,04-AUG-15,01-SEP-15    
+EHD/128817E-TLPR,15-SEP-15,15-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/128818C-TLPR,15-SEP-15,15-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/128818C-TLPR,15-SEP-15,15-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/128818C-TLPR,15-SEP-15,15-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/128818C-TLPR,15-SEP-15,15-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/128818C-TLPR,15-SEP-15,15-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/128819C-TLPR,22-SEP-15,22-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/128819C-TLPR,22-SEP-15,22-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/128819C-TLPR,22-SEP-15,22-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/128819C-TLPR,22-SEP-15,22-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/128819C-TLPR,22-SEP-15,22-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/128828C-TLPR,29-SEP-15,29-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/128828C-TLPR,29-SEP-15,29-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/128828C-TLPR,29-SEP-15,29-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/128828C-TLPR,29-SEP-15,29-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/128828C-TLPR,29-SEP-15,29-SEP-15,Slovak,With Vendor,03-AUG-15,31-AUG-15     
+EHD/129104C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129104C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129104C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129104C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129104C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129104C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129105C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129105C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129105C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129105C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129105C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129105C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129106C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129106C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129106C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129106C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129106C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129106C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129107C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129107C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129107C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129107C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129107C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129107C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129108C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129108C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129108C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129108C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129108C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129108C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129109C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129109C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129109C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129109C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129109C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129109C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129110C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129110C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129110C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129110C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129110C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129110C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129111C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/129111C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/129111C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/129111C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/129111C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/129111C-TLPR,,,Slovak,,06-AUG-15,                                           
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Arabic,With Vendor,16-JUN-15,14-JUL-15     
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Czech,QC Passed,16-JUN-15,24-AUG-15        
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Danish,With Vendor,16-JUN-15,14-JUL-15     
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Dutch,With Vendor,16-JUN-15,14-JUL-15      
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Hungarian,With Vendor,16-JUN-15,14-JUL-15  
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Norwegian,With Vendor,16-JUN-15,14-JUL-15  
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Romanian,With Vendor,16-JUN-15,14-JUL-15   
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Russian,With Vendor,16-JUN-15,14-JUL-15    
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Swedish,With Vendor,16-JUN-15,14-JUL-15    
+EHD/129149B-CVEU,03-SEP-15,03-SEP-15,Turkish,With Vendor,16-JUN-15,14-JUL-15    
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Arabic,With Vendor,27-JUL-15,24-AUG-15     
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Czech,With Vendor,27-JUL-15,24-AUG-15      
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Danish,With Vendor,27-JUL-15,24-AUG-15     
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Dutch,With Vendor,27-JUL-15,24-AUG-15      
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Hungarian,With Vendor,27-JUL-15,24-AUG-15  
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Norwegian,With Vendor,27-JUL-15,24-AUG-15  
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Romanian,With Vendor,27-JUL-15,24-AUG-15   
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Russian,With Vendor,27-JUL-15,24-AUG-15    
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Swedish,With Vendor,27-JUL-15,24-AUG-15    
+EHD/129150B-CVEU,10-SEP-15,10-SEP-15,Turkish,With Vendor,27-JUL-15,24-AUG-15    
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/129322E-TLBA,05-SEP-15,05-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Czech,,17-JUN-15,01-OCT-15                 
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Estonian,,17-JUN-15,01-OCT-15              
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Greek,,17-JUN-15,01-OCT-15                 
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Hungarian,,17-JUN-15,01-OCT-15             
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Latvian,,17-JUN-15,01-OCT-15               
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Portuguese,,17-JUN-15,01-OCT-15            
+EHD/129322F-TLPR,11-OCT-15,06-AUG-15,Russian,,17-JUN-15,01-OCT-15               
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/129323G-TLBA,12-SEP-15,12-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/129324F-TLBA,19-SEP-15,19-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/129324G-TLBA,20-SEP-15,20-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/129360B-DBEN,14-SEP-15,09-JUL-15,Dutch,,09-JUN-15,04-SEP-15                 
+EHD/129361B-DBEN,15-SEP-15,23-JUL-15,Dutch,,09-JUN-15,05-SEP-15                 
+EHD/129362B-DBEN,16-SEP-15,30-JUL-15,Dutch,,09-JUN-15,06-SEP-15                 
+EHD/129367C-DFRA,09-SEP-15,09-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/129370C-DFRA,30-SEP-15,30-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/129465B-IDEU,,,Arabic,With Vendor,07-AUG-15,04-SEP-15                       
+EHD/129465B-IDEU,,,Dutch,With Vendor,07-AUG-15,04-SEP-15                        
+EHD/129465B-IDEU,,,Finnish,With Vendor,07-AUG-15,04-SEP-15                      
+EHD/129465B-IDEU,,,Norwegian,With Vendor,07-AUG-15,04-SEP-15                    
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Bulgarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Estonian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Greek,With Vendor,30-JUL-15,27-AUG-15      
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Romanian,With Vendor,30-JUL-15,27-AUG-15   
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Russian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Serbian,With Vendor,30-JUL-15,27-AUG-15    
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Slovak,With Vendor,30-JUL-15,27-AUG-15     
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Slovenian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/129486B-IDXE,07-SEP-15,07-SEP-15,Turkish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Albanian,With Vendor,30-JUN-15,28-JUL-15   
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Bulgarian,With Vendor,30-JUN-15,28-JUL-15  
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Croatian,With Vendor,30-JUN-15,28-JUL-15   
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Macedonian,With Vendor,30-JUN-15,28-JUL-15 
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Romanian,With Vendor,30-JUN-15,28-JUL-15   
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Serbian,With Vendor,30-JUN-15,28-JUL-15    
+EHD/129861B-TLBA,21-AUG-15,21-AUG-15,Slovenian,With Vendor,30-JUN-15,28-JUL-15  
+EHD/129998B-IDSW,04-SEP-15,16-JUL-15,Swedish,,28-MAY-15,25-AUG-15               
+EHD/129999B-IDSW,04-SEP-15,23-JUL-15,Swedish,,28-MAY-15,25-AUG-15               
+EHD/130000B-IDSW,11-SEP-15,30-JUL-15,Swedish,,28-MAY-15,01-SEP-15               
+EHD/130125D-TLBA,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130125D-TLBA,,,Croatian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130125D-TLBA,,,Macedonian,With Vendor,11-AUG-15,08-SEP-15                   
+EHD/130125D-TLBA,,,Romanian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130125D-TLBA,,,Serbian,With Vendor,11-AUG-15,08-SEP-15                      
+EHD/130125D-TLBA,,,Slovenian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130134C-TLBA,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130134C-TLBA,,,Croatian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130134C-TLBA,,,Macedonian,With Vendor,11-AUG-15,08-SEP-15                   
+EHD/130134C-TLBA,,,Romanian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130134C-TLBA,,,Serbian,With Vendor,11-AUG-15,08-SEP-15                      
+EHD/130134C-TLBA,,,Slovenian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130350D-TLCK,01-SEP-15,01-SEP-15,English HoH,QC Passed,05-AUG-15,22-AUG-15  
+EHD/130351B-TLCK,25-AUG-15,25-AUG-15,English HoH,With Vendor,05-AUG-15,15-AUG-15
+EHD/130372C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/130455B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130455B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130455B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130455B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130455B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130455B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130455B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130455B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130455B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130455B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130455B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/130455B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130456B-DCBU,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130456B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130456B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130456B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130456B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130456B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130456B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130456B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130456B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130456B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130456B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130456B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/130456B-DROM,,,Romanian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130456B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130457B-DCBU,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130457B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130457B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130457B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130457B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130457B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130457B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130457B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130457B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130457B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130457B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130457B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/130457B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130458B-DCBU,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130458B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130458B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130458B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130458B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130458B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130458B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130458B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130458B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130458B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130458B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130458B-DROM,,,Romanian,With Vendor,11-AUG-15,08-SEP-15                     
+EHD/130458B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130459B-DCBU,,,Bulgarian,With Vendor,11-AUG-15,08-SEP-15                    
+EHD/130459B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130459B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130459B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130459B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130459B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130459B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130459B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130459B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130459B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130459B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130459B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130465B-DCEN,,,Croatian,,10-AUG-15,                                         
+EHD/130465B-DCEN,,,Czech,,10-AUG-15,                                            
+EHD/130465B-DCEN,,,Greek,,10-AUG-15,                                            
+EHD/130465B-DCEN,,,Macedonian,,10-AUG-15,                                       
+EHD/130465B-DCEN,,,Russian,,10-AUG-15,                                          
+EHD/130465B-DCEN,,,Serbian,,10-AUG-15,                                          
+EHD/130465B-DCEN,,,Slovak,,10-AUG-15,                                           
+EHD/130465B-DCEN,,,Slovenian,,10-AUG-15,                                        
+EHD/130465B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/130465B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/130465B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/130465B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/130855C-DROM,17-AUG-15,17-AUG-15,Romanian,With Vendor,28-JUL-15,07-AUG-15   
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Danish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Finnish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Hungarian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Norwegian,With Vendor,30-JUL-15,27-AUG-15  
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Polish,With Vendor,30-JUL-15,27-AUG-15     
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Romanian,,29-JUL-15,04-SEP-15              
+EHD/130903B-AHDE,14-SEP-15,14-SEP-15,Swedish,With Vendor,30-JUL-15,27-AUG-15    
+EHD/130903F-DIBE,30-AUG-15,30-AUG-15,Portuguese,With Vendor,04-AUG-15,20-AUG-15 
+EHD/130903F-DIBE,30-AUG-15,30-AUG-15,Spanish,With Vendor,04-AUG-15,20-AUG-15    
+EHD/131012B-DSWE,,06-JUL-15,Finnish,,03-JUN-15,                                 
+EHD/131012B-DSWE,,06-JUL-15,Swedish,,03-JUN-15,                                 
+EHD/131028C-DSFT,,,Turkish,,03-JUL-15,                                          
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Arabic,With Vendor,03-AUG-15,31-AUG-15     
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Bulgarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Croatian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Czech,With Vendor,03-AUG-15,31-AUG-15      
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Danish,With Vendor,03-AUG-15,31-AUG-15     
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Dutch,With Vendor,03-AUG-15,31-AUG-15      
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Finnish,With Vendor,03-AUG-15,31-AUG-15    
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Macedonian,With Vendor,03-AUG-15,31-AUG-15 
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Norwegian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Romanian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Russian,With Vendor,03-AUG-15,31-AUG-15    
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Serbian,With Vendor,03-AUG-15,31-AUG-15    
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Slovenian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Swedish,With Vendor,03-AUG-15,31-AUG-15    
+EHD/131066G-AHDE,11-SEP-15,11-SEP-15,Turkish,With Vendor,03-AUG-15,31-AUG-15    
+EHD/131069C-DDEN,,07-AUG-15,Danish,,16-JUL-15,                                  
+EHD/131069C-DDEN,,07-AUG-15,Finnish,,16-JUL-15,                                 
+EHD/131069C-DDEN,,07-AUG-15,Norwegian,,16-JUL-15,                               
+EHD/131069C-DDEN,,07-AUG-15,Swedish,,16-JUL-15,                                 
+EHD/131141C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131141C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131141C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131142C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131142C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131142C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131143C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131143C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131143C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131144C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131144C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131144C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131145C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131145C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131145C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131146B-IDEU,,,Arabic,With Vendor,07-AUG-15,04-SEP-15                       
+EHD/131146B-IDEU,,,Dutch,With Vendor,07-AUG-15,04-SEP-15                        
+EHD/131146B-IDEU,,,Finnish,With Vendor,07-AUG-15,04-SEP-15                      
+EHD/131146B-IDEU,,,Norwegian,With Vendor,07-AUG-15,04-SEP-15                    
+EHD/131146C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131146C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131146C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131147C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131147C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131147C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131148C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131148C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131148C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131149B-IDXE,,,Bulgarian,With Vendor,07-AUG-15,04-SEP-15                    
+EHD/131149B-IDXE,,,Czech,With Vendor,07-AUG-15,04-SEP-15                        
+EHD/131149B-IDXE,,,Estonian,With Vendor,07-AUG-15,04-SEP-15                     
+EHD/131149B-IDXE,,,Greek,With Vendor,07-AUG-15,04-SEP-15                        
+EHD/131149B-IDXE,,,Hungarian,With Vendor,07-AUG-15,04-SEP-15                    
+EHD/131149B-IDXE,,,Romanian,With Vendor,07-AUG-15,04-SEP-15                     
+EHD/131149B-IDXE,,,Russian,With Vendor,07-AUG-15,04-SEP-15                      
+EHD/131149B-IDXE,,,Serbian,With Vendor,07-AUG-15,04-SEP-15                      
+EHD/131149B-IDXE,,,Slovenian,With Vendor,07-AUG-15,04-SEP-15                    
+EHD/131149B-IDXE,,,Turkish,With Vendor,07-AUG-15,04-SEP-15                      
+EHD/131149C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131149C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131149C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131150C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131150C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131150C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131152C-IDNL,,,Dutch,,06-AUG-15,                                            
+EHD/131152C-IDPL,,,Polish,,06-AUG-15,                                           
+EHD/131152C-IDSW,,,Swedish,,06-AUG-15,                                          
+EHD/131173D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131173D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131173D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131173D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131173D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131173D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131173D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131173D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131173D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131173D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131173D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131173D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131173D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131173D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131174D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131174D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131174D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131174D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131174D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131174D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131174D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131174D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131174D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131174D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131174D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131174D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131174D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131174D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131175D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131175D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131175D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131175D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131175D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131175D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131175D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131175D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131175D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131175D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131175D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131175D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131175D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131175D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131176D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131176D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131176D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131176D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131176D-APEU,,,Danish,,10-AUG-15,                                           
+EHD/131176D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131176D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131176D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131176D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131176D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131176D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131176D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131176D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131176D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131177D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131177D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131177D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131177D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131177D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131177D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131177D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131177D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131177D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131177D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131177D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131177D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131177D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131177D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131179D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131179D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131179D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131179D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131179D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131179D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131179D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131179D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131179D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131179D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131179D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131179D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131179D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131179D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131181D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131181D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131181D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131181D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131181D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131181D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131181D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131181D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131181D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131181D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131181D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131181D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131181D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131181D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131182D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131182D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131182D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131182D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131182D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131182D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131182D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131182D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131182D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131182D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131182D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131182D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131182D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131182D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131198D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131198D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131198D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131198D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131198D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131198D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131198D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131198D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131198D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131198D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131198D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131198D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131198D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131198D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131198D-APNR,,,Norwegian,,10-AUG-15,                                        
+EHD/131199D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131199D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131199D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131199D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131199D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131199D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131199D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131199D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131199D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131199D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131199D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131199D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131199D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131199D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131199D-APNR,,,Norwegian,,10-AUG-15,                                        
+EHD/131200D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131200D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131200D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131200D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131200D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131200D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131200D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131200D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131200D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131200D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131200D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131200D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131200D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131200D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131200D-APNR,,,Norwegian,,10-AUG-15,                                        
+EHD/131202D-APEU,,,Arabic,,10-AUG-15,                                           
+EHD/131202D-APEU,,,Bulgarian,,10-AUG-15,                                        
+EHD/131202D-APEU,,,Croatian,,10-AUG-15,                                         
+EHD/131202D-APEU,,,Czech,,10-AUG-15,                                            
+EHD/131202D-APEU,,,Dutch,,10-AUG-15,                                            
+EHD/131202D-APEU,,,Greek,,10-AUG-15,                                            
+EHD/131202D-APEU,,,Hungarian,,10-AUG-15,                                        
+EHD/131202D-APEU,,,Macedonian,,10-AUG-15,                                       
+EHD/131202D-APEU,,,Romanian,,10-AUG-15,                                         
+EHD/131202D-APEU,,,Russian,,10-AUG-15,                                          
+EHD/131202D-APEU,,,Serbian,,10-AUG-15,                                          
+EHD/131202D-APEU,,,Slovak,,10-AUG-15,                                           
+EHD/131202D-APEU,,,Slovenian,,10-AUG-15,                                        
+EHD/131202D-APEU,,,Turkish,,10-AUG-15,                                          
+EHD/131202D-APNR,,,Norwegian,,10-AUG-15,                                        
+EHD/131390B-DPOL,,,Polish,,22-JUL-15,                                           
+EHD/131441D-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/131441D-HDEU,,,Czech,,07-AUG-15,                                            
+EHD/131441D-HDEU,,,Dutch,,07-AUG-15,                                            
+EHD/131441D-HDEU,,,Finnish,,07-AUG-15,                                          
+EHD/131441D-HDEU,,,Greek,,07-AUG-15,                                            
+EHD/131441D-HDEU,,,Hungarian,,07-AUG-15,                                        
+EHD/131441D-HDEU,,,Norwegian,,07-AUG-15,                                        
+EHD/131441D-HDEU,,,Romanian,,07-AUG-15,                                         
+EHD/131441D-HDEU,,,Russian,,07-AUG-15,                                          
+EHD/131441D-HDEU,,,Slovak,,07-AUG-15,                                           
+EHD/131441D-HDEU,,,Swedish,,07-AUG-15,                                          
+EHD/131441D-HDEU,,,Turkish,,07-AUG-15,                                          
+EHD/131442D-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/131442D-HDEU,,,Czech,,07-AUG-15,                                            
+EHD/131442D-HDEU,,,Dutch,,07-AUG-15,                                            
+EHD/131442D-HDEU,,,Finnish,,07-AUG-15,                                          
+EHD/131442D-HDEU,,,Greek,,07-AUG-15,                                            
+EHD/131442D-HDEU,,,Hungarian,,07-AUG-15,                                        
+EHD/131442D-HDEU,,,Norwegian,,07-AUG-15,                                        
+EHD/131442D-HDEU,,,Romanian,,07-AUG-15,                                         
+EHD/131442D-HDEU,,,Russian,,07-AUG-15,                                          
+EHD/131442D-HDEU,,,Slovak,,07-AUG-15,                                           
+EHD/131442D-HDEU,,,Swedish,,07-AUG-15,                                          
+EHD/131442D-HDEU,,,Turkish,,07-AUG-15,                                          
+EHD/131443D-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/131443D-HDEU,,,Czech,,07-AUG-15,                                            
+EHD/131443D-HDEU,,,Dutch,,07-AUG-15,                                            
+EHD/131443D-HDEU,,,Finnish,,07-AUG-15,                                          
+EHD/131443D-HDEU,,,Greek,,07-AUG-15,                                            
+EHD/131443D-HDEU,,,Hungarian,,07-AUG-15,                                        
+EHD/131443D-HDEU,,,Norwegian,,07-AUG-15,                                        
+EHD/131443D-HDEU,,,Romanian,,07-AUG-15,                                         
+EHD/131443D-HDEU,,,Russian,,07-AUG-15,                                          
+EHD/131443D-HDEU,,,Slovak,,07-AUG-15,                                           
+EHD/131443D-HDEU,,,Swedish,,07-AUG-15,                                          
+EHD/131443D-HDEU,,,Turkish,,07-AUG-15,                                          
+EHD/131444D-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/131444D-DIBE,21-SEP-15,21-SEP-15,Portuguese,With Vendor,31-JUL-15,28-AUG-15 
+EHD/131444D-DIBE,21-SEP-15,21-SEP-15,Spanish,With Vendor,31-JUL-15,28-AUG-15    
+EHD/131444D-HDEU,,,Czech,,07-AUG-15,                                            
+EHD/131444D-HDEU,,,Dutch,,07-AUG-15,                                            
+EHD/131444D-HDEU,,,Finnish,,07-AUG-15,                                          
+EHD/131444D-HDEU,,,Greek,,07-AUG-15,                                            
+EHD/131444D-HDEU,,,Hungarian,,07-AUG-15,                                        
+EHD/131444D-HDEU,,,Norwegian,,07-AUG-15,                                        
+EHD/131444D-HDEU,,,Romanian,,07-AUG-15,                                         
+EHD/131444D-HDEU,,,Russian,,07-AUG-15,                                          
+EHD/131444D-HDEU,,,Slovak,,07-AUG-15,                                           
+EHD/131444D-HDEU,,,Swedish,,07-AUG-15,                                          
+EHD/131444D-HDEU,,,Turkish,,07-AUG-15,                                          
+EHD/131445E-SCFR,,,French,,02-JUL-15,                                           
+EHD/131448D-DDEN,,,Danish,,07-AUG-15,                                           
+EHD/131448D-HDEU,,,Czech,,07-AUG-15,                                            
+EHD/131448D-HDEU,,,Dutch,,07-AUG-15,                                            
+EHD/131448D-HDEU,,,Finnish,,07-AUG-15,                                          
+EHD/131448D-HDEU,,,Greek,,07-AUG-15,                                            
+EHD/131448D-HDEU,,,Hungarian,,07-AUG-15,                                        
+EHD/131448D-HDEU,,,Norwegian,,07-AUG-15,                                        
+EHD/131448D-HDEU,,,Romanian,,07-AUG-15,                                         
+EHD/131448D-HDEU,,,Russian,,07-AUG-15,                                          
+EHD/131448D-HDEU,,,Slovak,,07-AUG-15,                                           
+EHD/131448D-HDEU,,,Swedish,,07-AUG-15,                                          
+EHD/131448D-HDEU,,,Turkish,,07-AUG-15,                                          
+EHD/131538B-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/131608F-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/131608F-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/131608F-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/131608F-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/131608F-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/131611E-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/131611E-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/131611E-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/131611E-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/131611E-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/131611F-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/131611F-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/131611F-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/131611F-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/131611F-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/131615B-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/131615B-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/131615B-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/131615B-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/131615B-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Bulgarian,With Vendor,23-JUL-15,20-AUG-15  
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Estonian,With Vendor,23-JUL-15,20-AUG-15   
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Greek,With Vendor,23-JUL-15,20-AUG-15      
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Hungarian,With Vendor,23-JUL-15,20-AUG-15  
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Romanian,With Vendor,23-JUL-15,20-AUG-15   
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Russian,With Vendor,23-JUL-15,20-AUG-15    
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Serbian,With Vendor,23-JUL-15,20-AUG-15    
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Slovak,With Vendor,23-JUL-15,20-AUG-15     
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Slovenian,With Vendor,23-JUL-15,20-AUG-15  
+EHD/132298B-IDXE,17-SEP-15,17-SEP-15,Turkish,With Vendor,23-JUL-15,20-AUG-15    
+EHD/132299B-IDEU,,,Arabic,,24-JUL-15,                                           
+EHD/132299B-IDEU,,,Dutch,,24-JUL-15,                                            
+EHD/132299B-IDEU,,,Finnish,,24-JUL-15,                                          
+EHD/132299B-IDEU,,,Norwegian,,24-JUL-15,                                        
+EHD/132299B-IDEU,,,Swedish,,24-JUL-15,                                          
+EHD/132299B-IDPL,,,Polish,,27-JUL-15,                                           
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Bulgarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Estonian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Greek,With Vendor,11-AUG-15,08-SEP-15      
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Hungarian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Romanian,With Vendor,11-AUG-15,08-SEP-15   
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Russian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Serbian,With Vendor,11-AUG-15,08-SEP-15    
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Slovak,With Vendor,11-AUG-15,08-SEP-15     
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Slovenian,With Vendor,11-AUG-15,08-SEP-15  
+EHD/132301B-IDXE,15-OCT-15,15-OCT-15,Turkish,With Vendor,11-AUG-15,08-SEP-15    
+EHD/132549C-IDPL,,,Polish,,07-AUG-15,                                           
+EHD/132704C-AHDE,,,Arabic,,29-JUL-15,                                           
+EHD/132704C-AHDE,,,Bulgarian,,29-JUL-15,                                        
+EHD/132704C-AHDE,,,Croatian,,29-JUL-15,                                         
+EHD/132704C-AHDE,,,Czech,,29-JUL-15,                                            
+EHD/132704C-AHDE,,,Danish,,29-JUL-15,                                           
+EHD/132704C-AHDE,,,Dutch,,29-JUL-15,                                            
+EHD/132704C-AHDE,,,Finnish,,29-JUL-15,                                          
+EHD/132704C-AHDE,,,Greek,,29-JUL-15,                                            
+EHD/132704C-AHDE,,,Hungarian,,29-JUL-15,                                        
+EHD/132704C-AHDE,,,Macedonian,,29-JUL-15,                                       
+EHD/132704C-AHDE,,,Norwegian,,29-JUL-15,                                        
+EHD/132704C-AHDE,,,Polish,,29-JUL-15,                                           
+EHD/132704C-AHDE,,,Romanian,,29-JUL-15,                                         
+EHD/132704C-AHDE,,,Russian,,29-JUL-15,                                          
+EHD/132704C-AHDE,,,Serbian,,29-JUL-15,                                          
+EHD/132704C-AHDE,,,Slovenian,,29-JUL-15,                                        
+EHD/132704C-AHDE,,,Swedish,,29-JUL-15,                                          
+EHD/132704C-AHDE,,,Turkish,,29-JUL-15,                                          
+EHD/132746C-DIBE,30-AUG-15,30-AUG-15,Portuguese,With Vendor,10-JUL-15,07-AUG-15 
+EHD/132746C-DIBE,30-AUG-15,30-AUG-15,Spanish,With Vendor,10-JUL-15,07-AUG-15    
+EHD/133136D-DDEN,,04-AUG-15,Danish,,16-JUL-15,                                  
+EHD/133136D-DDEN,,04-AUG-15,Finnish,,16-JUL-15,                                 
+EHD/133136D-DDEN,,04-AUG-15,Norwegian,,16-JUL-15,                               
+EHD/133136D-DDEN,,04-AUG-15,Swedish,,16-JUL-15,                                 
+EHD/133436C-TLAB,,,Arabic,,06-AUG-15,                                           
+EHD/133436C-TLPR,,,Czech,,06-AUG-15,                                            
+EHD/133436C-TLPR,,,Estonian,,06-AUG-15,                                         
+EHD/133436C-TLPR,,,Greek,,06-AUG-15,                                            
+EHD/133436C-TLPR,,,Hungarian,,06-AUG-15,                                        
+EHD/133436C-TLPR,,,Portuguese,,06-AUG-15,                                       
+EHD/133436C-TLPR,,,Russian,,06-AUG-15,                                          
+EHD/133563C-DBEN,,,Dutch,,16-JUN-15,                                            
+EHD/133563C-DIBE,,,Portuguese,,18-JUN-15,                                       
+EHD/133563C-DIBE,,,Spanish,,18-JUN-15,                                          
+EHD/133693B-IDSW,,,Swedish,,07-AUG-15,                                          
+EHD/133694B-IDSW,,,Swedish,,07-AUG-15,                                          
+EHD/134322C-RTIT,,07-AUG-15,Italian,With Vendor,02-JUL-15,30-JUL-15             
+EHD/134560C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/134561C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/134562C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/134563C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/134564B-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/134565C-TLCK,,,English HoH,,15-JUL-15,                                      
+EHD/134566C-TLCK,,,English HoH,,13-JUL-15,                                      
+EHD/137354B-DITA,08-OCT-15,08-OCT-15,Italian,,05-AUG-15,28-SEP-15               
+EHD/137355B-DITA,09-OCT-15,09-OCT-15,Italian,,05-AUG-15,29-SEP-15               
+EHD/137356B-DITA,12-OCT-15,12-OCT-15,Italian,,05-AUG-15,02-OCT-15               
+EHD/137357B-DITA,13-OCT-15,13-OCT-15,Italian,,05-AUG-15,03-OCT-15               
+EHD/137358B-DITA,14-OCT-15,14-OCT-15,Italian,,05-AUG-15,04-OCT-15               
+EHD/137359B-DITA,15-OCT-15,15-OCT-15,Italian,,05-AUG-15,05-OCT-15               
+EHD/137360B-DITA,16-OCT-15,16-OCT-15,Italian,,05-AUG-15,06-OCT-15               
+EHD/137361B-DITA,19-OCT-15,19-OCT-15,Italian,,05-AUG-15,09-OCT-15               
+EHD/137362B-DITA,20-OCT-15,20-OCT-15,Italian,,05-AUG-15,10-OCT-15               
+EHD/137363B-DITA,21-OCT-15,21-OCT-15,Italian,,05-AUG-15,11-OCT-15               
+EHD/137364B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137365B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137366B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137367B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137368B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137369B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137370B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137371B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137372B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137373B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137374B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137375B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137376B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137377B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/137378B-DITA,,,Italian,,05-AUG-15,                                          
+EHD/842034M-HDEU,,05-OCT-06,Portuguese,,27-JUL-15,                              
+EHD/842035M-HDEU,,05-OCT-06,Portuguese,,27-JUL-15,                              
+EHD/842037N-HDEU,,09-OCT-06,Portuguese,,27-JUL-15,                              
+EHD/887303D-IDXE,07-SEP-15,07-SEP-15,Bulgarian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/887440E-DSMX,24-AUG-15,26-MAR-15,Spanish HoH,With Vendor,16-JUL-15,13-AUG-15
+EHD/894943C-HDEU,,07-AUG-15,Portuguese,,02-JUL-15,                              
+EHD/897506C-APLU,25-SEP-15,29-FEB-12,English HoH,,30-JUL-15,15-SEP-15           
+EHD/897507C-APLU,25-SEP-15,11-JUN-12,English HoH,,30-JUL-15,15-SEP-15           
+EHD/899703D-HDEU,,,Portuguese,,27-JUL-15,                                       
+EHD/900261G-HDEU,,,Albanian,,02-JUL-15,                                         
+EHD/900261G-HDEU,,,Czech,,02-JUL-15,                                            
+EHD/900261G-HDEU,,,Danish,,02-JUL-15,                                           
+EHD/900261G-HDEU,,,Dutch,,02-JUL-15,                                            
+EHD/900261G-HDEU,,,Finnish,,02-JUL-15,                                          
+EHD/900261G-HDEU,,,Greek,,02-JUL-15,                                            
+EHD/900261G-HDEU,,,Hungarian,,02-JUL-15,                                        
+EHD/900261G-HDEU,,,Norwegian,,02-JUL-15,                                        
+EHD/900261G-HDEU,,,Portuguese,,02-JUL-15,                                       
+EHD/900261G-HDEU,,,Romanian,,02-JUL-15,                                         
+EHD/900261G-HDEU,,,Russian,,02-JUL-15,                                          
+EHD/900261G-HDEU,,,Swedish,,02-JUL-15,                                          
+EHD/900261G-HDEU,,,Turkish,,02-JUL-15,                                          
+EHD/900862C-HDEU,,,Finnish,,27-JUL-15,                                          
+EHD/906613G-HDEU,,,Albanian,,02-JUL-15,                                         
+EHD/906613G-HDEU,,,Czech,,02-JUL-15,                                            
+EHD/906613G-HDEU,,,Danish,,02-JUL-15,                                           
+EHD/906613G-HDEU,,,Dutch,,02-JUL-15,                                            
+EHD/906613G-HDEU,,,Finnish,,02-JUL-15,                                          
+EHD/906613G-HDEU,,,Greek,,02-JUL-15,                                            
+EHD/906613G-HDEU,,,Hungarian,,02-JUL-15,                                        
+EHD/906613G-HDEU,,,Norwegian,,02-JUL-15,                                        
+EHD/906613G-HDEU,,,Portuguese,,02-JUL-15,                                       
+EHD/906613G-HDEU,,,Romanian,,02-JUL-15,                                         
+EHD/906613G-HDEU,,,Russian,,02-JUL-15,                                          
+EHD/906613G-HDEU,,,Swedish,,02-JUL-15,                                          
+EHD/906613G-HDEU,,,Turkish,,02-JUL-15,                                          
+EHD/906614G-HDEU,,,Albanian,,02-JUL-15,                                         
+EHD/906614G-HDEU,,,Czech,,02-JUL-15,                                            
+EHD/906614G-HDEU,,,Danish,,02-JUL-15,                                           
+EHD/906614G-HDEU,,,Dutch,,02-JUL-15,                                            
+EHD/906614G-HDEU,,,Finnish,,02-JUL-15,                                          
+EHD/906614G-HDEU,,,Greek,,02-JUL-15,                                            
+EHD/906614G-HDEU,,,Hungarian,,02-JUL-15,                                        
+EHD/906614G-HDEU,,,Norwegian,,02-JUL-15,                                        
+EHD/906614G-HDEU,,,Portuguese,,02-JUL-15,                                       
+EHD/906614G-HDEU,,,Romanian,,02-JUL-15,                                         
+EHD/906614G-HDEU,,,Russian,,02-JUL-15,                                          
+EHD/906614G-HDEU,,,Swedish,,02-JUL-15,                                          
+EHD/906614G-HDEU,,,Turkish,,02-JUL-15,                                          
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Albanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Bulgarian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Croatian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Macedonian,With Vendor,25-JUN-15,23-JUL-15 
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Romanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Serbian,With Vendor,25-JUN-15,23-JUL-15    
+EHD/915047C-TLBA,19-AUG-15,19-AUG-15,Slovenian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/916942B-TLBA,12-SEP-15,12-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/917057H-DFRA,15-SEP-15,22-OCT-12,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/919200C-TLBA,11-OCT-15,31-MAY-13,Macedonian,,05-MAY-15,01-OCT-15            
+EHD/919818F-DDEN,,09-JUN-15,Danish,,31-MAR-15,                                  
+EHD/919819E-DDEN,,10-JUN-15,Danish,,31-MAR-15,                                  
+EHD/919820F-DDEN,,11-JUN-15,Danish,,31-MAR-15,                                  
+EHD/919821E-DDEN,,15-JUN-15,Danish,,31-MAR-15,                                  
+EHD/919822E-DDEN,13-AUG-15,16-JUN-15,Danish,,31-MAR-15,03-AUG-15                
+EHD/919823F-DDEN,17-AUG-15,17-JUN-15,Danish,,31-MAR-15,07-AUG-15                
+EHD/919824F-DDEN,18-AUG-15,18-JUN-15,Danish,,31-MAR-15,08-AUG-15                
+EHD/919825F-DDEN,19-AUG-15,22-JUN-15,Danish,,31-MAR-15,09-AUG-15                
+EHD/919826F-DDEN,20-AUG-15,23-JUN-15,Danish,,31-MAR-15,10-AUG-15                
+EHD/919827E-DDEN,,08-JUN-15,Danish,,31-MAR-15,                                  
+EHD/922108B-TLBA,,,Albanian,,26-MAY-15,                                         
+EHD/922108B-TLBA,,,Bulgarian,,26-MAY-15,                                        
+EHD/922108B-TLBA,,,Croatian,,26-MAY-15,                                         
+EHD/922108B-TLBA,,,Macedonian,,26-MAY-15,                                       
+EHD/922108B-TLBA,,,Romanian,,26-MAY-15,                                         
+EHD/922108B-TLBA,,,Serbian,,26-MAY-15,                                          
+EHD/922108B-TLBA,,,Slovenian,,26-MAY-15,                                        
+EHD/925355B-IDXE,16-AUG-15,01-MAR-15,Albanian,With Vendor,10-JUN-15,08-JUL-15   
+EHD/926448D-SCFR,16-SEP-15,27-FEB-15,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/926452D-SCFR,22-SEP-15,05-MAR-15,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/926459E-SCFR,30-SEP-15,07-OCT-14,French HoH,With Vendor,22-JUL-15,19-AUG-15 
+EHD/927796B-DPOL,,,Polish,,21-MAY-15,                                           
+EHD/929052B-DPOL,,,Polish,,21-MAY-15,                                           
+EHD/932961B-TUTU,09-OCT-15,10-AUG-15,Greek,,21-JUL-15,29-SEP-15                 
+EHD/932961B-TUTU,09-OCT-15,10-AUG-15,Romanian,,21-JUL-15,29-SEP-15              
+EHD/934369E-DPOL,25-AUG-15,03-MAR-14,Polish HoH,With Vendor,17-JUN-15,15-JUL-15 
+EHD/936728F-TLSW,,22-JUL-15,Swedish,,23-JUL-15,                                 
+EHD/936729F-TLSW,,23-JUL-15,Swedish,,23-JUL-15,                                 
+EHD/936730F-TLSW,,24-JUL-15,Swedish,,23-JUL-15,                                 
+EHD/936731F-TLSW,,27-JUL-15,Swedish,,23-JUL-15,                                 
+EHD/936732F-TLSW,,28-JUL-15,Swedish,,24-JUL-15,                                 
+EHD/936735F-TLSW,,31-JUL-15,Swedish,,24-JUL-15,                                 
+EHD/937131B-QUUK,08-SEP-15,09-JUL-13,English HoH,With Vendor,06-JUL-15,03-AUG-15
+EHD/937227D-TLBA,07-SEP-15,16-OCT-13,Macedonian,,05-MAY-15,28-AUG-15            
+EHD/937254H-HDEU,,,Danish,,28-JUL-15,                                           
+EHD/937254H-HDEU,,,Dutch,,28-JUL-15,                                            
+EHD/937254H-HDEU,,,Finnish,,28-JUL-15,                                          
+EHD/937254H-HDEU,,,Greek,,28-JUL-15,                                            
+EHD/937254H-HDEU,,,Hungarian,,28-JUL-15,                                        
+EHD/937254H-HDEU,,,Norwegian,,28-JUL-15,                                        
+EHD/937254H-HDEU,,,Portuguese,,28-JUL-15,                                       
+EHD/937254H-HDEU,,,Russian,,28-JUL-15,                                          
+EHD/937254H-HDEU,,,Slovak,,28-JUL-15,                                           
+EHD/937254H-HDEU,,,Swedish,,28-JUL-15,                                          
+EHD/941797H-WOIT,10-SEP-15,10-SEP-15,Italian,Received,24-JUL-15,31-AUG-15       
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Albanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Bulgarian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Croatian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Macedonian,With Vendor,25-JUN-15,23-JUL-15 
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Romanian,With Vendor,25-JUN-15,23-JUL-15   
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Serbian,With Vendor,25-JUN-15,23-JUL-15    
+EHD/943091C-TLBA,20-AUG-15,20-AUG-15,Slovenian,With Vendor,25-JUN-15,23-JUL-15  
+EHD/943399C-DSWE,,04-AUG-15,Finnish,With Vendor,08-JUL-15,05-AUG-15             
+EHD/943399C-DSWE,,04-AUG-15,Swedish,With Vendor,08-JUL-15,05-AUG-15             
+EHD/943400C-DSWE,,05-AUG-15,Finnish,With Vendor,08-JUL-15,05-AUG-15             
+EHD/943400C-DSWE,,05-AUG-15,Swedish,With Vendor,08-JUL-15,05-AUG-15             
+EHD/944186B-DIBE,15-AUG-15,10-JUN-15,Portuguese,With Vendor,08-MAY-15,05-JUN-15 
+EHD/944187B-DIBE,22-AUG-15,17-JUN-15,Portuguese,QC Passed,08-MAY-15,07-JUN-15   
+EHD/944187B-DIBE,22-AUG-15,17-JUN-15,Spanish,,17-APR-15,12-AUG-15               
+EHD/944188B-DIBE,29-AUG-15,24-JUN-15,Portuguese,QC Passed,08-MAY-15,14-JUN-15   
+EHD/944188B-DIBE,29-AUG-15,24-JUN-15,Spanish,,17-APR-15,19-AUG-15               
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944854B-TLBA,06-SEP-15,06-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944859B-TLBA,17-SEP-15,17-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944860B-TLBA,18-SEP-15,18-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944861B-TLBA,21-SEP-15,21-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944862B-TLBA,22-SEP-15,22-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Albanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Bulgarian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Croatian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Macedonian,With Vendor,28-JUL-15,25-AUG-15 
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Romanian,With Vendor,28-JUL-15,25-AUG-15   
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Serbian,With Vendor,28-JUL-15,25-AUG-15    
+EHD/944865B-TLBA,25-SEP-15,25-SEP-15,Slovenian,With Vendor,28-JUL-15,25-AUG-15  
+EHD/946360E-DSMX,10-SEP-15,13-JUN-15,Spanish,Received,08-MAY-15,31-AUG-15       
+EHD/946360E-DSMX,10-SEP-15,13-JUN-15,Spanish HoH,With Vendor,22-JUL-15,19-AUG-15
+EHD/947262C-DDEN,09-SEP-15,09-JUN-15,Danish,,31-MAR-15,30-AUG-15                
+EHD/947263C-DDEN,10-SEP-15,10-JUN-15,Danish,,31-MAR-15,31-AUG-15                
+EHD/947264C-DDEN,14-SEP-15,11-JUN-15,Danish,,31-MAR-15,04-SEP-15                
+EHD/947265D-DDEN,15-SEP-15,15-JUN-15,Danish,,31-MAR-15,05-SEP-15                
+EHD/947266C-DDEN,16-SEP-15,16-JUN-15,Danish,,31-MAR-15,06-SEP-15                
+EHD/947267D-DDEN,17-SEP-15,17-JUN-15,Danish,,31-MAR-15,07-SEP-15                
+EHD/947268C-DDEN,21-SEP-15,18-JUN-15,Danish,,31-MAR-15,11-SEP-15                
+EHD/947269C-DDEN,22-SEP-15,22-JUN-15,Danish,,31-MAR-15,12-SEP-15                
+EHD/947270C-DDEN,23-SEP-15,23-JUN-15,Danish,,31-MAR-15,13-SEP-15                
+EHD/947271C-DDEN,24-SEP-15,24-JUN-15,Danish,,31-MAR-15,14-SEP-15                
+EHD/947272C-DDEN,28-SEP-15,25-JUN-15,Danish,,31-MAR-15,18-SEP-15                
+EHD/947273C-DDEN,29-SEP-15,29-JUN-15,Danish,,31-MAR-15,19-SEP-15                
+EHD/947274C-DDEN,30-SEP-15,30-JUN-15,Danish,,31-MAR-15,20-SEP-15                
+EHD/947276C-DDEN,08-SEP-15,08-JUN-15,Danish,,31-MAR-15,29-AUG-15                
+EHD/948022B-CIPO,26-AUG-15,04-JUN-15,Polish,,29-JUL-15,16-AUG-15                
+EHD/948043G-DPOL,31-AUG-15,08-OCT-14,Polish HoH,With Vendor,17-JUN-15,15-JUL-15 
+EHD/949162E-IDXE,22-AUG-15,27-MAR-15,Albanian,With Vendor,10-JUN-15,08-JUL-15   
+EHD/950430C-DPOL,30-SEP-15,30-SEP-15,Polish,With Vendor,24-JUL-15,21-AUG-15     
+EHD/950461C-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/950461C-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/950461C-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/950461C-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/950461C-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/950516C-TLPR,10-OCT-15,10-OCT-15,Estonian,With Vendor,04-AUG-15,01-SEP-15   
+EHD/950516C-TLPR,10-OCT-15,10-OCT-15,Greek,With Vendor,04-AUG-15,01-SEP-15      
+EHD/950516C-TLPR,10-OCT-15,10-OCT-15,Hungarian,With Vendor,04-AUG-15,01-SEP-15  
+EHD/950516C-TLPR,10-OCT-15,10-OCT-15,Portuguese,With Vendor,04-AUG-15,01-SEP-15 
+EHD/950516C-TLPR,10-OCT-15,10-OCT-15,Slovak,With Vendor,04-AUG-15,01-SEP-15     
+EHD/950582D-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/950582D-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/950582D-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/950582D-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/950582D-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/950583D-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/950583D-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/950583D-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/950583D-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/950583D-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/950584D-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/950584D-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/950584D-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/950584D-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/950584D-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/950585D-DBEN,,,Dutch,,10-AUG-15,                                            
+EHD/950585D-DCFI,,,Finnish,,10-AUG-15,                                          
+EHD/950585D-DDEN,,,Danish,,10-AUG-15,                                           
+EHD/950585D-DNOR,,,Norwegian,,10-AUG-15,                                        
+EHD/950585D-DSWE,,,Swedish,,10-AUG-15,                                          
+EHD/950722C-DXIT,30-AUG-15,30-AUG-15,Italian,Received,20-JUL-15,20-AUG-15       
+EHD/951273E-DSMX,09-OCT-15,10-AUG-15,Spanish HoH,With Vendor,16-JUL-15,13-AUG-15
+EHD/951275D-DBEN,,06-JUL-15,Danish,,27-MAY-15,                                  
+EHD/951275D-DBEN,,06-JUL-15,Dutch,,27-MAY-15,                                   
+EHD/951552B-IDXE,21-AUG-15,30-AUG-14,Albanian,With Vendor,10-JUN-15,08-JUL-15   
+EHD/952292C-RTIT,,,Italian,With Vendor,28-MAY-15,25-JUN-15                      
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Czech,With Vendor,03-AUG-15,31-AUG-15      
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/952956B-TLPR,16-SEP-15,16-SEP-15,Russian,With Vendor,03-AUG-15,31-AUG-15    
+EHD/953480B-DPOL,,02-JUL-15,Polish,,21-MAY-15,                                  
+EHD/953998D-TLPR,17-SEP-15,17-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Albanian,With Vendor,26-JUN-15,24-JUL-15   
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Bulgarian,With Vendor,26-JUN-15,24-JUL-15  
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Croatian,With Vendor,26-JUN-15,24-JUL-15   
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Macedonian,With Vendor,26-JUN-15,24-JUL-15 
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Romanian,With Vendor,26-JUN-15,24-JUL-15   
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Serbian,With Vendor,26-JUN-15,24-JUL-15    
+EHD/954398B-TLBA,31-AUG-15,31-AUG-15,Slovenian,With Vendor,26-JUN-15,24-JUL-15  
+EHD/954446C-IDNL,25-AUG-15,25-AUG-15,Dutch,With Vendor,09-JUN-15,07-JUL-15      
+EHD/954910B-DMEA,19-AUG-15,19-AUG-15,Arabic,With Vendor,03-JUL-15,31-JUL-15     
+EHD/954910B-DMEA,19-AUG-15,19-AUG-15,Hebrew,With Vendor,03-JUL-15,31-JUL-15     
+EHD/955545B-DIBE,20-AUG-15,29-JUL-15,Portuguese,QC Passed,05-JUN-15,03-JUL-15   
+EHD/955545B-DIBE,20-AUG-15,29-JUL-15,Spanish,,12-MAY-15,10-AUG-15               
+EHD/956689B-DDEN,23-AUG-15,23-AUG-15,Danish,With Vendor,09-JUL-15,06-AUG-15     
+EHD/956689B-DDEN,23-AUG-15,23-AUG-15,Finnish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/956689B-DDEN,23-AUG-15,23-AUG-15,Swedish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/956690C-DDEN,28-AUG-15,28-AUG-15,Danish,With Vendor,09-JUL-15,06-AUG-15     
+EHD/956690C-DDEN,28-AUG-15,28-AUG-15,Finnish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/956690C-DDEN,28-AUG-15,28-AUG-15,Swedish,With Vendor,09-JUL-15,06-AUG-15    
+EHD/956717B-DDEN,,04-AUG-15,Danish,With Vendor,16-JUL-15,13-AUG-15              
+EHD/956717B-DDEN,,04-AUG-15,Finnish,With Vendor,16-JUL-15,13-AUG-15             
+EHD/956717B-DDEN,,04-AUG-15,Norwegian,With Vendor,16-JUL-15,13-AUG-15           
+EHD/956717B-DDEN,,04-AUG-15,Swedish,With Vendor,16-JUL-15,13-AUG-15             
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Croatian,QC Passed,09-JUL-15,16-AUG-15     
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Czech,QC Passed,09-JUL-15,16-AUG-15        
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Estonian,With Vendor,10-JUL-15,07-AUG-15   
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Greek,QC Passed,09-JUL-15,16-AUG-15        
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Macedonian,QC Passed,09-JUL-15,16-AUG-15   
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Serbian,With Vendor,09-JUL-15,06-AUG-15    
+EHD/957390B-DCEN,26-AUG-15,26-AUG-15,Slovenian,With Vendor,09-JUL-15,06-AUG-15  
+EHD/957392H-DXIT,,26-JUL-15,Italian,QC Passed,14-JUL-15,                        
+EHD/957512C-DNOR,,26-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/957513C-DNOR,,26-JUL-15,Norwegian,,27-MAY-15,                               
+EHD/957515C-CIPO,20-SEP-15,19-JUL-15,Polish,,03-JUL-15,10-SEP-15                
+EHD/957515C-DNOR,,02-AUG-15,Norwegian,With Vendor,09-JUL-15,06-AUG-15           
+EHD/957602C-DMEA,12-SEP-15,12-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/957602C-DMEA,12-SEP-15,12-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/957604C-DMEA,26-SEP-15,26-SEP-15,Arabic,With Vendor,30-JUL-15,27-AUG-15     
+EHD/957604C-DMEA,26-SEP-15,26-SEP-15,Hebrew,With Vendor,30-JUL-15,27-AUG-15     
+EHD/958153K-DFRA,18-SEP-15,18-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/958153L-DFRA,06-SEP-15,06-SEP-15,French,With Vendor,29-JUN-15,27-JUL-15     
+EHD/958455C-TLPR,30-SEP-15,30-SEP-15,Czech,With Vendor,03-AUG-15,31-AUG-15      
+EHD/958455C-TLPR,30-SEP-15,30-SEP-15,Estonian,With Vendor,03-AUG-15,31-AUG-15   
+EHD/958455C-TLPR,30-SEP-15,30-SEP-15,Greek,With Vendor,03-AUG-15,31-AUG-15      
+EHD/958455C-TLPR,30-SEP-15,30-SEP-15,Hungarian,With Vendor,03-AUG-15,31-AUG-15  
+EHD/958455C-TLPR,30-SEP-15,30-SEP-15,Portuguese,With Vendor,03-AUG-15,31-AUG-15 
+EHD/959079B-IDNL,08-SEP-15,08-SEP-15,Dutch,With Vendor,27-JUL-15,24-AUG-15      
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Czech,Received,06-JUL-15,07-AUG-15         
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Portuguese,QC Passed,06-JUL-15,07-AUG-15   
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959586D-HDEU,17-AUG-15,17-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959586F-DSMX,05-SEP-15,05-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Czech,Received,06-JUL-15,14-AUG-15         
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Portuguese,QC Passed,06-JUL-15,14-AUG-15   
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959587D-HDEU,24-AUG-15,24-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959587F-DSMX,12-SEP-15,12-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Czech,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Portuguese,With Vendor,06-JUL-15,03-AUG-15 
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959588D-HDEU,24-AUG-15,24-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959588F-DSMX,12-SEP-15,12-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Czech,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Portuguese,With Vendor,06-JUL-15,03-AUG-15 
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959589D-HDEU,31-AUG-15,31-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959589F-DSMX,19-SEP-15,19-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Czech,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Portuguese,With Vendor,06-JUL-15,03-AUG-15 
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959590D-HDEU,31-AUG-15,31-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959590F-DSMX,19-SEP-15,19-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959591F-DSMX,26-SEP-15,26-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959592F-DSMX,26-SEP-15,26-SEP-15,Spanish,With Vendor,28-JUL-15,25-AUG-15    
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Czech,Received,06-JUL-15,07-AUG-15         
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Danish,With Vendor,06-JUL-15,03-AUG-15     
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Dutch,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Finnish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Greek,With Vendor,06-JUL-15,03-AUG-15      
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Hungarian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Norwegian,With Vendor,06-JUL-15,03-AUG-15  
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Portuguese,QC Passed,06-JUL-15,07-AUG-15   
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Romanian,With Vendor,06-JUL-15,03-AUG-15   
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Russian,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Swedish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959595D-HDEU,17-AUG-15,17-AUG-15,Turkish,With Vendor,06-JUL-15,03-AUG-15    
+EHD/959595F-DSMX,05-SEP-15,05-SEP-15,Spanish,With Vendor,29-JUL-15,26-AUG-15    
+EHD/959799H-DSMX,23-AUG-15,23-AUG-15,Spanish,With Vendor,02-JUL-15,30-JUL-15    
+EHD/960023B-DIBE,,12-JUN-15,Portuguese,QC Passed,08-MAY-15,                     
+EHD/960023B-DIBE,,12-JUN-15,Spanish,With Vendor,08-MAY-15,05-JUN-15             
+EHD/960046B-TLPR,18-AUG-15,18-AUG-15,Greek,With Vendor,23-JUN-15,21-JUL-15      
+ESD/047645E-QUUK,,,English HoH,,25-JUN-15,                                      
+ESD/134813B-DXIT,10-SEP-15,10-SEP-15,Italian,Received,27-JUL-15,31-AUG-15       
+ESD/801204F-QUUK,16-AUG-15,15-JUL-15,English HoH,,04-AUG-15,06-AUG-15           
+ESD/802883E-APLU,01-SEP-15,19-OCT-06,English HoH,,30-JUL-15,22-AUG-15           
+ESD/839026I-QUUK,,04-JUL-11,English HoH,With Vendor,06-JUL-15,03-AUG-15         
+ESD/839027I-QUUK,,04-JUL-11,English HoH,,25-JUN-15,                             
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Czech,,11-AUG-15,19-SEP-15                 
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Danish,Received,11-AUG-15,19-SEP-15        
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Dutch,Received,11-AUG-15,19-SEP-15         
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Hungarian,,11-AUG-15,19-SEP-15             
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Norwegian,Received,11-AUG-15,19-SEP-15     
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Romanian,Received,11-AUG-15,19-SEP-15      
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Russian,,11-AUG-15,19-SEP-15               
+ESD/852889D-CVEU,29-SEP-15,29-SEP-15,Swedish,Received,11-AUG-15,19-SEP-15       
+ESD/854375I-DHPO,01-SEP-15,01-SEP-15,Polish,,06-AUG-15,22-AUG-15                
+ESD/862445H-TUTU,,01-AUG-15,Greek,With Vendor,20-JUL-15,17-AUG-15               
+ESD/862446G-TUTU,,01-AUG-15,Greek,With Vendor,20-JUL-15,17-AUG-15               
+ESD/879103E-IDXE,28-SEP-15,28-SEP-15,Bulgarian,With Vendor,09-JUL-15,06-AUG-15  
+ESD/879103E-IDXE,28-SEP-15,28-SEP-15,Estonian,With Vendor,09-JUL-15,06-AUG-15   
+ESD/879342B-IDEU,25-AUG-15,20-MAY-09,Russian,With Vendor,23-JUN-15,21-JUL-15    
+ESD/880832B-IDPL,14-AUG-15,31-JAN-13,Polish HoH,With Vendor,07-AUG-15,04-AUG-15 
+ESD/903151B-QUUK,29-AUG-15,29-AUG-15,English HoH,With Vendor,06-JUL-15,03-AUG-15
+ESD/903152B-QUUK,05-SEP-15,05-SEP-15,English HoH,With Vendor,07-JUL-15,04-AUG-15
+ESD/903154B-QUUK,02-NOV-15,23-JUL-15,English HoH,With Vendor,06-JUL-15,03-AUG-15
+ESD/904012B-TLBA,27-AUG-15,21-JAN-12,Macedonian,,05-MAY-15,17-AUG-15            
+ESD/904013B-TLBA,28-AUG-15,21-JAN-12,Macedonian,,05-MAY-15,18-AUG-15            
+ESD/915139B-TUTU,,04-AUG-15,Greek,,20-JUL-15,                                   
+ESD/915139B-TUTU,,04-AUG-15,Romanian,,20-JUL-15,                                
+ESD/925252B-TLPO,,,Polish,,29-JUL-15,                                           

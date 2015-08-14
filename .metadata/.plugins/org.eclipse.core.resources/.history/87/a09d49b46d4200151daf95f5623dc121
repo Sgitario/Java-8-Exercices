@@ -1,0 +1,190 @@
+package com.sgitario.piksel.discovery;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Collection;
+import java.util.Date;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+
+public class PremieresComparator {
+	
+	private static SimpleDateFormat SDF = new SimpleDateFormat("dd-MMM-y");
+	
+	private List<Cause> causes = new ArrayList<Cause>();
+	
+	public PremieresComparator() {
+		// initialize causes
+		causes.add(new TwentyDaysCause());
+	}
+	
+	private Map<String, Premiere> parsePremieres(String file) throws IOException {		
+		return Files.readAllLines(Paths.get("src/main/resources/" + file))
+			.parallelStream()
+				.filter((l) -> !l.isEmpty())
+				.collect(() -> new HashMap<String, Premiere>(), 
+						(s, l) -> { 
+							Premiere p = parsePremiere(l); 
+							s.put(p.getKey(), p); 
+						}, 
+						(s1, s2) -> s1.putAll(s2));
+	}
+	
+	private Collection<DiffPremiere> diffPremieres(Map<String, Premiere> previous,
+			Map<String, Premiere> after) {
+		return after.values().stream()
+			.collect(() -> new HashSet<DiffPremiere>(), 
+					(s, p) -> {
+						Premiere b = previous.get(p.getKey());
+						if (b != null && !b.langDue.equals(p.langDue)) {
+							
+							DiffPremiere diff = new DiffPremiere();
+							diff.after = p;
+							diff.previous = b;
+							
+							Optional<Cause> possible = causes.stream().filter((c) -> c.isCausedBy(b, p)).findFirst();
+							if (possible.isPresent()) {
+								diff.cause = possible.get().getMessage(b, p);
+							} else {
+								diff.cause = "UKNOWN";
+							}
+							
+							s.add(diff);
+						}
+					}, (s1, s2) -> s1.addAll(s2));
+	}
+	
+	private Premiere parsePremiere(String l) {
+		Premiere p = new Premiere();
+		String[] arr = l.split(",");
+		p.datamartId = parseArray(arr, 0);
+		p.workingTxDate = parseArray(arr, 1);
+		p.txDate = parseArray(arr, 2);
+		p.langCode = parseArray(arr, 3);
+		p.langStatus = parseArray(arr, 4);
+		p.vendorDate = parseArray(arr, 5);
+		p.langDue = parseArray(arr, 6);
+		
+		return p;
+	}
+	
+	private String parseArray(String[] arr, int pos) {
+		if (arr.length > pos) {
+			return arr[pos].trim();
+		}
+		
+		return "";
+	}
+	
+	public static void main(String[] args) throws IOException {
+		PremieresComparator c = new PremieresComparator();
+		
+		Map<String, Premiere> previous = c.parsePremieres("previous.out");
+		Map<String, Premiere> after = c.parsePremieres("report_qa_after.lst");
+		Collection<DiffPremiere> diff = c.diffPremieres(previous, after);
+		diff.stream().forEach(System.out::println);
+	}
+	
+	interface Cause {
+		boolean isCausedBy(Premiere prev, Premiere after);
+		String getMessage(Premiere prev, Premiere after);
+	}
+	
+	class NewNullLLDDCause implements Cause {
+
+		@Override
+		public boolean isCausedBy(Premiere prev, Premiere after) {
+			return after.workingTxDate.isEmpty()
+					&& !after.vendorDate.isEmpty()
+					&& after.langStatus.isEmpty()
+					&& after.langDue.isEmpty()
+					&& !prev.langDue.isEmpty();
+		}
+
+		@Override
+		public String getMessage(Premiere prev, Premiere after) {
+			return "(PROBABLY NODE 1: Same rule as 28 day rule but this was removed in KAKAPO 1.3.2)";
+		}
+		
+	}
+	
+	class TwentyDaysCause implements Cause {
+
+		@Override
+		public boolean isCausedBy(Premiere prev, Premiere after) {
+			try {
+				if (!after.workingTxDate.isEmpty() 
+						&& !after.vendorDate.isEmpty()
+						&& !after.langDue.isEmpty()) {
+					Calendar vendorDate = Calendar.getInstance();
+					vendorDate.setTime(SDF.parse(after.vendorDate));
+					vendorDate.add(Calendar.DAY_OF_YEAR, 28);
+					
+					Date langDueDate = SDF.parse(after.langDue);
+					if (langDueDate.getTime() == vendorDate.getTime().getTime()) {
+						return true;
+					}
+				}
+			
+			} catch (ParseException e) {
+				e.printStackTrace();
+			}
+			
+			return false;
+		}
+
+		@Override
+		public String getMessage(Premiere prev, Premiere after) {
+			return "(PROBABLY NODE 2: 28 day rule was applied)";
+		}
+		
+	}
+
+	class Premiere {
+		String datamartId;
+		String workingTxDate;
+		String txDate;
+		String langCode;
+		String langDue;
+		String langStatus;
+		String vendorDate;
+		
+		public String getKey() {
+			return String.format("%s,%s", datamartId, langCode);
+		}
+	}
+	
+	class DiffPremiere {
+		Premiere previous;
+		Premiere after;
+		String cause;
+		
+		/**
+		 * Datamart ID, Lang Code, 
+		 * New Lang Due, Old Lang Due, 
+		 * New Working Tx Date, Old Working Tx Date, 
+		 * New Tx Date, Old Tx Date, 
+		 * New Vendor Date, Old Vendor Date, 
+		 * New Lang Status, Old Lang Status, 
+		 * Cause
+		 */
+		@Override
+		public String toString() {
+			return String.format("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s", after.getKey(), 
+					after.langDue, previous.langDue, 
+					after.workingTxDate, previous.workingTxDate,
+					after.txDate, previous.txDate,
+					after.vendorDate, previous.vendorDate,
+					after.langStatus, previous.langStatus,
+					cause);
+		}
+	}
+}

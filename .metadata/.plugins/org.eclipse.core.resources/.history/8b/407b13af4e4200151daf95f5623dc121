@@ -1,0 +1,47 @@
+package com.sgitario.piksel.discovery;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Collection;
+import java.util.HashSet;
+
+public class PremieresComparator {
+	
+	private Collection<Premiere> parsePremieres(String file) throws IOException {		
+		return Files.readAllLines(Paths.get(file))
+			.stream()
+				.filter((l) -> !l.isEmpty())
+				.collect(() -> new HashSet(), (s, l) -> s.add(parsePremiere(l)), (s1, s2) -> s1.addAll(s2));
+	}
+	
+	public Premiere parsePremiere(String l) {
+		Premiere p = new Premiere();
+		String[] arr = l.split(",");
+		p.datamartId = arr[0];
+		
+		if (arr.length > 0) {
+			p.langCode = arr[1];
+			
+			if (arr.length > 1) {
+				p.langDue = arr[2];
+			}
+		}
+		
+		return p;
+	}
+	
+	public static void main(String[] args) {
+		PremieresComparator c = new PremieresComparator();
+		
+		Collection<Premiere> premieres = c.parsePremieres("report_after.lst");
+	}
+
+	
+
+	class Premiere {
+		String datamartId;
+		String langCode;
+		String langDue;
+	}
+}

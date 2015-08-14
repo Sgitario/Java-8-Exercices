@@ -1,0 +1,22 @@
+package com.sgitario.utils;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.EnumSet;
+import java.util.List;
+import java.util.function.Supplier;
+import java.util.stream.Collector;
+
+public class StringUtils {
+	public static int max(String o1, String o2) {
+		return Integer.compare(o1.length(), o2.length());
+	}
+	
+	public static Collector<String, List<String>, List<String>> capitalize(String s) {	
+		return new Collector<>((Supplier<List<String>>) ArrayList::new, List::add,
+                (left, right) -> { left.addAll(right); return left; },
+                Collections.unmodifiableSet(EnumSet.of(Collector.Characteristics.CONCURRENT)));
+		
+		return s.substring(0, 1).toUpperCase() + s.substring(1);
+	}
+}

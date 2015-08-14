@@ -1,0 +1,5 @@
+package com.sgitario.utils;
+
+public class StringUtils {
+
+}

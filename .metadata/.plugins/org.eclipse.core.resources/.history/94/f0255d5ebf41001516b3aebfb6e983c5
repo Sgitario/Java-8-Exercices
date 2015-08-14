@@ -1,0 +1,32 @@
+package com.sgitario.coderbyte.easy;
+
+public class LetterChanges {
+	String LetterChanges(String str) { 
+		  
+	    String output = "";    
+	    for (int index = 0; index < str.length(); index++) {
+	    	
+	    	String i = "" + str.charAt(index);
+	    	if (i.matches("[a-zA-Z]")) {
+	    		char c = i.charAt(0);
+	    		c++;
+	    		
+	    		if (c > 'a' && c < 'e') {
+	  	    	  output += ("" + c).toUpperCase();
+	  	    	}
+	    	}
+	      
+	      output += s;
+	    }
+	    
+	    return output;
+	    
+	  } 
+	  
+	  public static void main (String[] args) {  
+	    // keep this function call here     
+
+		  LetterChanges c = new LetterChanges();
+	    System.out.print(c.LetterChanges("hello*3")); 
+	  }   
+}

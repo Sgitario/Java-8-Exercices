@@ -1,0 +1,24 @@
+package com.sgitario.chapter6;
+
+public class LetterChanges {
+	String LetterChanges(String str) { 
+		  
+	    String output = "";    
+	    for (int index = 0; index < str.length(); index++) {
+	      char slot = str.charAt(index) + 1;
+	      if (slot > 'a' && slot < 'e') {
+	    	  
+	      }
+	    }
+	    
+	    return output;
+	    
+	  } 
+	  
+	  public static void main (String[] args) {  
+	    // keep this function call here     
+
+		  LetterChanges c = new LetterChanges();
+	    System.out.print(c.LetterChanges("asdas")); 
+	  }   
+}

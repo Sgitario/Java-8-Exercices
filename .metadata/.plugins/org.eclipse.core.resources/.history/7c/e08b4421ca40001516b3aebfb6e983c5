@@ -1,0 +1,28 @@
+package com.sgitario.chapter6;
+
+import static java.util.stream.Collectors.*;
+
+import java.util.List;
+import java.util.Map;
+import java.util.stream.IntStream;
+
+public class Primes {
+
+	public Map<Boolean, List<Integer>> partitionPrimes(int n) {
+		return IntStream.rangeClosed(2, n)
+	                .collect(partitioningBy(candidate -> isPrime(candidate)));
+	}
+	
+	public boolean isPrime(int candidate) {
+	    int candidateRoot = (int) Math.sqrt((double) candidate);
+	    return IntStream.rangeClosed(2, candidateRoot)
+                .noneMatch(i -> candidate % i == 0);
+	}
+	
+	public static void main(String[] args) {
+		Primes primes = new Primes();
+		
+		System.out.println(primes.partitionPrimes(100).get(true));
+	}
+
+}

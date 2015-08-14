@@ -1,0 +1,9 @@
+package com.sgitario.utils;
+
+import java.util.stream.Collector;
+
+public class StringUtils {
+	public Collector<String, StringBuilder, StringBuilder> reverse() {
+		
+	}
+}

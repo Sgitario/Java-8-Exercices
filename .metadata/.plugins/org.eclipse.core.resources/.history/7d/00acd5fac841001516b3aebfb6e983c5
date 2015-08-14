@@ -1,0 +1,39 @@
+package com.sgitario.coderbyte.easy;
+
+import java.util.Arrays;
+
+import com.sgitario.utils.StringUtils;
+
+/**
+ * Using the Java language, have the function LetterCapitalize(str) take the str
+ * parameter being passed and capitalize the first letter of each word. Words
+ * will be separated by only one space.
+ * 
+ * Use the Parameter Testing feature in the box below to test your code with
+ * different arguments.
+ * 
+ * @author jhilario
+ *
+ */
+public class LetterCapitalize {
+	String LetterCapitalize(String str) {
+		StringBuilder output = new StringBuilder();
+		Arrays.asList(str.split(" "))
+				.stream()
+					.forEach(StringUtils::capitalize)
+					
+				;
+		for (String s : arr) {			
+			
+		}
+
+		return output.toString();
+
+	}
+
+	public static void main(String[] args) {
+		// keep this function call here
+		LetterCapitalize c = new LetterCapitalize();
+		System.out.print(c.LetterCapitalize("hello world"));
+	}
+}

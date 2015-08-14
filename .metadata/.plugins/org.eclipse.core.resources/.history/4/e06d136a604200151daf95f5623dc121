@@ -1,0 +1,95 @@
+package com.sgitario.piksel.discovery;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+
+public class PremieresComparator {
+	
+	private Map<String, Premiere> parsePremieres(String file) throws IOException {		
+		return Files.readAllLines(Paths.get("src/main/resources/" + file))
+			.parallelStream()
+				.filter((l) -> !l.isEmpty())
+				.collect(() -> new HashMap<String, Premiere>(), 
+						(s, l) -> { 
+							Premiere p = parsePremiere(l); 
+							s.put(p.getKey(), p); 
+						}, 
+						(s1, s2) -> s1.putAll(s2));
+	}
+	
+	private Collection<DiffPremiere> diffPremieres(Map<String, Premiere> previous,
+			Map<String, Premiere> after) {
+		return after.values().stream()
+			.collect(() -> new HashSet<DiffPremiere>(), 
+					(s, p) -> {
+						Premiere b = previous.get(p.getKey());
+						if (b != null && !b.langDue.equals(p.langDue)) {
+							
+							DiffPremiere diff = new DiffPremiere();
+							diff.datamartId = p.datamartId;
+							diff.langCode = p.langCode;
+							diff.langDue = p.langDue;
+							diff.previousLangDue = b.langDue;
+							
+							s.add(diff);
+						}
+					}, (s1, s2) -> s1.addAll(s2));
+	}
+	
+	private Premiere parsePremiere(String l) {
+		Premiere p = new Premiere();
+		String[] arr = l.split(",");
+		p.datamartId = arr[0].trim();
+		
+		if (arr.length > 1) {
+			p.langCode = arr[1].trim();
+			
+			if (arr.length > 2) {
+				try {
+					p.langDue = arr[2].trim();
+				} catch (Exception ex) {
+					ex.printStackTrace();
+				}
+				
+			}
+		}
+		
+		return p;
+	}
+	
+	public static void main(String[] args) throws IOException {
+		PremieresComparator c = new PremieresComparator();
+		
+		Map<String, Premiere> previous = c.parsePremieres("output2.out");
+		Map<String, Premiere> after = c.parsePremieres("report_after.lst");
+		Collection<DiffPremiere> diff = c.diffPremieres(previous, after);
+		diff.stream().forEach(System.out::println);
+	}
+
+	class Premiere {
+		String datamartId;
+		String langCode;
+		String langDue = "";
+		
+		public String getKey() {
+			return String.format("%s,%s", datamartId, langCode);
+		}
+	}
+	
+	class DiffPremiere extends Premiere {
+		String previousLangDue;
+		
+		/**
+		 * Datamart ID, Lang Code, New Lang Due, Old Lang Due
+		 */
+		@Override
+		public String toString() {
+			return String.format("%s,%s,%s", getKey(), langDue, previousLangDue);
+		}
+	}
+}

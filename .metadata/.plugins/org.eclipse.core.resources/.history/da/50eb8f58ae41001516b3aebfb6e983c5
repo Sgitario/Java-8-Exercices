@@ -1,0 +1,18 @@
+package com.sgitario.coderbyte.easy;
+
+import java.util.Arrays;
+
+public class FirstReverse {
+	String FirstReverse(String str) {
+
+		Arrays.asList(str.split(""))
+
+		return str;
+
+	}
+
+	public static void main(String[] args) {
+		FirstReverse c = new FirstReverse();
+		System.out.print(c.FirstReverse("coderbyte"));
+	}
+}

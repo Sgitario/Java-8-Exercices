@@ -1,0 +1,9 @@
+package com.sgitario.piksel.discovery;
+
+import com.sgitario.coderbyte.easy.DashInsertII;
+
+public class PremieresComparator {
+	public static void main(String[] args) {
+		
+	}
+}

@@ -1,0 +1,16 @@
+package com.sgitario.piksel.discovery;
+
+public class PremieresComparator {
+	public static void main(String[] args) {
+		PremieresComparator c = new PremieresComparator();
+		
+		
+		List<Premiere> premieres = c.parsePremieres("report_after.lst");
+	}
+	
+	class Premiere {
+		String datamartId;
+		String langCode;
+		String langDue;
+	}
+}

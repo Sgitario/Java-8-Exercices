@@ -1,0 +1,23 @@
+package com.sgitario.coderbyte.easy;
+
+/**
+ * Using the Java language, have the function SimpleAdding(num) add up all the numbers from 1 to num. For the test cases, the parameter num will be any number from 1 to 1000. 
+ * 
+ * Use the Parameter Testing feature in the box below to test your code with different arguments.
+ * @author jhilario
+ *
+ */
+public class SimpleAdding {
+	int SimpleAdding(int num) { 
+		  
+	       
+	    return num;
+	    
+	  } 
+	  
+	  public static void main (String[] args) {  
+	    // keep this function call here     
+	    SimpleAdding c = new SimpleAdding();
+	    System.out.print(c.SimpleAdding(12)); 
+	  }
+}

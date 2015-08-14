@@ -1,0 +1,16 @@
+package com.sgitario.chapter6;
+
+public class FirstReverse {
+	String FirstReverse(String str) {
+
+		
+
+		return str;
+
+	}
+
+	public static void main(String[] args) {
+		FirstReverse c = new FirstReverse();
+		System.out.print(c.FirstReverse("coderbyte"));
+	}
+}
