@@ -1,0 +1,31 @@
+package com.sgitario.book;
+
+import java.util.Collection;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+public class PowerSet {
+	
+	private Collection<String> powerset(int[] arr) {
+		return iterate(arr, arr.length - 1, null);
+	}
+	
+	private void iterate(int[] arr, int n, Set<String> collection) {
+		if (n == 0) {
+			// initialize
+			collection.add("");
+		} else if (n > 0) {
+			iterate(arr, n - 1, collection);
+			
+			for (String str : collection) {
+				str += arr[n];
+			}
+		}
+	}
+	
+	public static void main(String[] args) {
+		PowerSet c = new PowerSet();
+		
+		System.out.print(c.powerset(new int[] {1,2,3,4}));
+	}
+}

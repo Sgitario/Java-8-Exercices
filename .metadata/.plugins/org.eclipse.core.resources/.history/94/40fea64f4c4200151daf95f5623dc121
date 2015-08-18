@@ -1,7 +1,0 @@
-package com.sgitario.piksel.discovery;
-
-public class PremieresComparator {
-	public static void main(String[] args) {
-		
-	}
-}

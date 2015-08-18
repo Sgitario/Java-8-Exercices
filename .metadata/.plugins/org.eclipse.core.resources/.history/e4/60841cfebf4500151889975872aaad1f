@@ -1,0 +1,9 @@
+package com.sgitario.book;
+
+public class ReplaceWhiteString {
+	public static void main(String[] args) {
+		ReplaceWhiteString c = new ReplaceWhiteString();
+		
+		System.out.print(c.reverse("hola"));
+	}
+}

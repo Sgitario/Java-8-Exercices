@@ -1,0 +1,22 @@
+package com.sgitario.book;
+
+import com.sgitario.chapter6.DashInsertII;
+
+/**
+ * Having two integers, check whether are equals without using any comparators.
+ * 
+ * @author jhilario
+ *
+ */
+public class IsEqual {
+	
+	public boolean isEquals(int num1, int num2) {
+		int rest = num1 - num2;
+	}
+	
+	public static void main(String[] args) {
+		DashInsertII c = new DashInsertII();
+		
+		System.out.print(c.IsEqual(4, 4));
+	}
+}

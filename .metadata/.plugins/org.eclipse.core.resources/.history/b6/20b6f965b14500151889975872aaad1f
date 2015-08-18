@@ -1,0 +1,13 @@
+package com.sgitario.book;
+
+public class ReverseString {
+	public String reverse(String str) {
+		
+	}
+	
+	public static void main(String[] args) {
+		ReverseString c = new ReverseString();
+		
+		System.out.print(c.isEquals("hola"));
+	}
+}

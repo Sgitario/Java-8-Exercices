@@ -1,0 +1,10 @@
+package com.sgitario.book;
+
+/**
+ * Having two integers, check whether are equals without using any comparators.
+ * @author jhilario
+ *
+ */
+public class Sum {
+
+}
